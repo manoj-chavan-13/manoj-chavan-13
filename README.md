@@ -2,48 +2,64 @@
 
 ## 👨‍💻 About Me
 
-I’m a developer and designer passionate about building innovative web and mobile applications. As an engineering student with a diploma background, I combine my technical skills with a strong design sense to create engaging user experiences.
+I’m a developer and designer passionate about building innovative web and mobile applications. As an engineering student with a diploma background, I combine my technical skills with a strong design sense to create engaging user experiences. Currently, I’m deeply invested in full-stack development and have ambitious goals for my tech startup.
 
-- 🌟 **Professional Skills**:
-  - **Web Development**: HTML, CSS, JavaScript, React
-  - **App Development**: Android (Java, Kotlin)
-  - **Design**: UI/UX Design, Graphic Design
-  - **Engineering**: Diploma Graduate, currently pursuing further studies
+### 🌟 Professional Skills
 
-- 🌱 **Currently Learning**:
-  - **Kotlin** for Android app development
-  - **Mastering Python** for backend development and data analysis
+- **Full-Stack Development**: Node.js, Express.js, React, Tailwind CSS
+- **App Development**: Android (Java, Kotlin), Flutter
+- **Backend Development**: Node.js, Express.js, Python (Flask), Java
+- **Design**: UI/UX Design, Graphic Design
+- **Deployment**: Vercel, OnRender, Firebase
+- **Engineering**: Diploma Graduate, currently pursuing further studies in IT
 
-- 💼 **Seeking Opportunities**:
-  - Open to internships, part-time roles, and freelance projects in web/app development and design. Enthusiastic about contributing to open-source projects.
+### 🌱 Currently Learning
 
-- 💡 **Fun Fact**: I love solving complex problems with creative solutions and have a strong imagination for visualizing design and functionality.
+- **Full-Stack Development**: Deepening skills in Node.js, React, Tailwind CSS
+- **Programming Languages**: Developing a new programming language called MAU (Mathematical and Algorithmic Utility) using Python
+- **Deployment and Operations**: Advanced techniques for deploying and managing applications
+
+### 💼 Seeking Opportunities
+
+Open to internships, part-time roles, and freelance projects in web/app development and design. Enthusiastic about contributing to open-source projects and collaborating on innovative ideas.
+
+### 💡 Fun Fact
+
+I love solving complex problems with creative solutions and have a strong imagination for visualizing design and functionality.
 
 ## 🛠️ Technologies & Tools
 
 - **Languages**: Java, Python, Kotlin, JavaScript
-- **Web Technologies**: HTML, CSS 
-- **App Development**: Android (Java, Kotlin)
+- **Web Technologies**: HTML, CSS, React, Tailwind CSS
+- **App Development**: Android (Java, Kotlin), Flutter
+- **Backend Development**: Node.js, Express.js, Flask
 - **Design Tools**: Adobe XD, Figma, Photoshop, Illustrator
-- **Other Tools**:  Firebase
+- **Deployment**: Vercel, OnRender, Firebase
 
+## 🚀 My Startup
+
+**Minta**: I’m currently working on my startup, Minta, which aims to provide a wide range of tech services. Our goal is to offer innovative solutions across various sectors, including education, e-commerce, healthcare, artificial intelligence, and agriculture. We’re also focused on launching our own tech products, such as **Innomate** and **QCON AI**.
+
+- **Innomate**: A tech-education platform for students to share project ideas, discuss study insights, and network.
+- **QCON AI**: A fully interactive AI with advanced reasoning and conversational abilities.
+
+## 🌟 MAU (Mathematical and Algorithmic Utility)
+
+MAU is a programming language designed to blend human-readable syntax with efficient arithmetic operations. Developed by Minta using Python, MAU aims to provide a clear, concise, and powerful tool for programming tasks involving mathematical and algorithmic computations. My vision is to make MAU a globally recognized language for all types of development.
+
+## 🤝 Interested in Collaborating?
+
+If you're excited about my projects or share similar interests, I’d love to connect and explore potential collaborations! Whether you have ideas to discuss, projects to work on, or just want to chat about tech, feel free to reach out.
 
 ## 💬 Connect with Me
 
-- **LinkedIn**: [Manoj Chavan](www.linkedin.com/in/manojchavan1311)
+- **LinkedIn**: [Manoj Chavan](https://www.linkedin.com/in/manojchavan1311)
 - **Email**: [manojschavan6@gmail.com](mailto:manojschavan6@gmail.com)
-
-
 
 ## 🚀 Open to Collaboration
 
-I’m excited about contributing to open-source projects and collaborating on innovative ideas. Feel free to reach out if you’re looking for a dedicated developer/designer to join your project!
+I’m eager to contribute to open-source projects and collaborate on innovative ideas. If you're interested in working together, don't hesitate to get in touch!
 
 ## 😄 Pronouns
 
 He/Him
-
-<!---
-manoj-chavan-13/manoj-chavan-13 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
