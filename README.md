@@ -24,7 +24,7 @@ Open to internships, part-time roles, and freelance projects in web/app developm
 - **Design Tools**: Adobe XD, Figma, Photoshop, Illustrator
 - **Deployment**: Vercel, OnRender, Firebase
 
-### 🚀 My Startup: [Minta](https://minta.in)
+## 🚀 My Startup: [Minta](https://minta.in)
 
 **Minta** is my ambitious tech startup focused on delivering innovative solutions across various sectors. Our mission is to address significant tech challenges and provide valuable services to a wide range of industries.
 
@@ -39,7 +39,7 @@ Open to internships, part-time roles, and freelance projects in web/app developm
 - **Innomate**: A tech-education platform designed to foster a community of students passionate about technology. It enables users to share project ideas, discuss study insights, and network effectively without distractions. **Innomate** is set to launch next year.
 - **QCON AI**: An advanced AI system that offers human-like interaction, reasoning, and conversational abilities. It aims to revolutionize how we interact with artificial intelligence. **QCON AI** is also scheduled for launch next year.
 
-### 🌟 MAU (Mathematical and Algorithmic Utility)
+## 🌟 MAU (Mathematical and Algorithmic Utility)
 
 MAU is a cutting-edge programming language developed by Minta to simplify mathematical and algorithmic computations. It combines human-readable syntax with powerful arithmetic capabilities to offer a versatile tool for developers.
 
