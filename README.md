@@ -4,15 +4,6 @@
 
 I’m a developer and designer with a strong passion for building innovative web and mobile applications. With a background in engineering and a diploma in computer engineering, I leverage my technical skills and design sensibilities to create engaging and user-friendly experiences. Currently, I’m focused on deepening my expertise in Python and JavaScript while working on my startup.
 
-### 🌟 Professional Skills
-
-- **Full-Stack Development**: Expertise in building both front-end and back-end solutions using Node.js, Express.js, React, and Tailwind CSS. I am adept at creating dynamic and responsive web applications.
-- **App Development**: Skilled in developing Android applications using Java and Kotlin, and exploring cross-platform development with Flutter.
-- **Backend Development**: Proficient in Node.js and Express.js for server-side development, and experienced with Python (Flask) and Java for robust backend solutions.
-- **Design**: Strong background in UI/UX design and graphic design, with the ability to create visually appealing and user-centric interfaces.
-- **Deployment**: Experienced in deploying applications using platforms like Vercel, OnRender, and Firebase, ensuring smooth and scalable delivery of services.
-- **Engineering**: Diploma Graduate, currently pursuing further studies in IT to enhance my technical knowledge and skills.
-
 ### 🌱 Currently Focusing On
 
 - **Python**: Delving deeper into Python for backend development and data analysis, focusing on building efficient and scalable applications.
