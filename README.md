@@ -15,7 +15,7 @@ I’m a developer and designer passionate about building innovative web and mobi
 
 Open to internships, part-time roles, and freelance projects in web/app development and design. Enthusiastic about contributing to open-source projects and collaborating on innovative ideas.
 
-### 🛠️ Technologies & Tools
+## 🛠️ Technologies & Tools
 
 - **Languages**: Java, Python, Kotlin, JavaScript
 - **Web Technologies**: HTML, CSS, React, Tailwind CSS
@@ -35,7 +35,7 @@ Open to internships, part-time roles, and freelance projects in web/app developm
 - **Artificial Intelligence**: Innovating with AI technologies to offer advanced solutions and services.
 - **Agriculture**: Providing tech solutions to support agricultural advancements and efficiency.
 
-### Products:
+## Products:
 - **Innomate**: A tech-education platform designed to foster a community of students passionate about technology. It enables users to share project ideas, discuss study insights, and network effectively without distractions. **Innomate** is set to launch next year.
 - **QCON AI**: An advanced AI system that offers human-like interaction, reasoning, and conversational abilities. It aims to revolutionize how we interact with artificial intelligence. **QCON AI** is also scheduled for launch next year.
 
@@ -43,14 +43,14 @@ Open to internships, part-time roles, and freelance projects in web/app developm
 
 MAU is a cutting-edge programming language developed by Minta to simplify mathematical and algorithmic computations. It combines human-readable syntax with powerful arithmetic capabilities to offer a versatile tool for developers.
 
-### Key Features:
+## Key Features:
 - **Human-Readable Syntax**: Designed to be easy to read and write, making complex mathematical and algorithmic tasks more approachable.
 - **Efficient Arithmetic Operations**: Optimized for high-performance calculations and algorithmic tasks.
 - **Broad Applicability**: Suitable for a wide range of applications, from academic research to practical development.
 
 MAU aims to become a globally recognized language, bridging the gap between human-friendly syntax and efficient computational performance.
 
-### 🤝 Interested in Collaborating?
+## 🤝 Interested in Collaborating?
 
 If you're excited about my projects or share similar interests, I’d love to connect and explore potential collaborations! Whether you have ideas to discuss, projects to work on, or just want to chat about tech and AI, feel free to reach out.
 
