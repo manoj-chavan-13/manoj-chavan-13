@@ -74,6 +74,10 @@ If you're excited about my projects or share similar interests, I’d love to co
 
 I’m eager to contribute to open-source projects and collaborate on innovative ideas. If you're interested in working together, don't hesitate to get in touch!
 
+## 🌟 Future Aspirations
+
+My dreams include delving deeper into Natural Language Processing (NLP) and developing Artificial General Intelligence (AGI). I am passionate about exploring how these technologies can shape the future and contribute to solving complex problems.
+
 ## 😄 Pronouns
 
 He/Him
