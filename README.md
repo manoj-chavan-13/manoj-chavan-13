@@ -2,7 +2,7 @@
 
 ## 👨‍💻 About Me
 
-I’m a developer and designer passionate about building innovative web and mobile applications. As an engineering student with a diploma background, I combine my technical skills with a strong design sense to create engaging user experiences. Currently, I’m deeply invested in full-stack development and have ambitious goals for my tech startup.
+I’m a developer and designer passionate about building innovative web and mobile applications. As an engineering student with a diploma background, I combine my technical skills with a strong design sense to create engaging user experiences. Currently, I’m focused on deepening my expertise in Python and JavaScript while working on my startup.
 
 ### 🌟 Professional Skills
 
@@ -13,11 +13,11 @@ I’m a developer and designer passionate about building innovative web and mobi
 - **Deployment**: Vercel, OnRender, Firebase
 - **Engineering**: Diploma Graduate, currently pursuing further studies in IT
 
-### 🌱 Currently Learning
+### 🌱 Currently Focusing On
 
-- **Full-Stack Development**: Deepening skills in Node.js, React, Tailwind CSS
-- **Programming Languages**: Developing a new programming language called MAU (Mathematical and Algorithmic Utility) using Python
-- **Deployment and Operations**: Advanced techniques for deploying and managing applications
+- **Python**: Delving deeper into Python for backend development and data analysis.
+- **JavaScript**: Enhancing skills in JavaScript, particularly with Node.js and React.
+- **Startup Development**: Working on **Minta**, my tech startup, and developing a new programming language called MAU (Mathematical and Algorithmic Utility).
 
 ### 💼 Seeking Opportunities
 
@@ -38,7 +38,7 @@ I love solving complex problems with creative solutions and have a strong imagin
 
 ## 🚀 My Startup
 
-**Minta**: I’m currently working on my startup, Minta, which aims to provide a wide range of tech services. Our goal is to offer innovative solutions across various sectors, including education, e-commerce, healthcare, artificial intelligence, and agriculture. We’re also focused on launching our own tech products, such as **Innomate** and **QCON AI**.
+**Minta**: I’m working on my startup, Minta, which aims to provide a wide range of tech services. Our goal is to offer innovative solutions across various sectors, including education, e-commerce, healthcare, artificial intelligence, and agriculture. We’re also focused on launching our own tech products, such as **Innomate** and **QCON AI**.
 
 - **Innomate**: A tech-education platform for students to share project ideas, discuss study insights, and network.
 - **QCON AI**: A fully interactive AI with advanced reasoning and conversational abilities.
