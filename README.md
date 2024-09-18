@@ -68,7 +68,7 @@ If you're excited about my projects or share similar interests, I’d love to co
 ## 💬 Connect with Me
 
 - **LinkedIn**: [Manoj Chavan](https://www.linkedin.com/in/manojchavan1311)
-- **Email**: [manojschavan6@gmail.com](mailto:manojschavan6@gmail.com)
+- **Email**: [hello@minta.in](mailto:hello@minta.in)
 
 ## 🚀 Open to Collaboration
 
