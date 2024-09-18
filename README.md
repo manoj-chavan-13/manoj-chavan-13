@@ -4,6 +4,15 @@
 
 I’m a developer and designer passionate about building innovative web and mobile applications. As an engineering student with a diploma background, I combine my technical skills with a strong design sense to create engaging user experiences. Currently, I’m focused on deepening my expertise in Python and JavaScript while working on my startup.
 
+### 🌟 Professional Skills
+
+- **Full-Stack Development**: Node.js, Express.js, React, Tailwind CSS
+- **App Development**: Android (Java, Kotlin), Flutter
+- **Backend Development**: Node.js, Express.js, Python (Flask), Java
+- **Design**: UI/UX Design, Graphic Design
+- **Deployment**: Vercel, OnRender, Firebase
+- **Engineering**: Diploma Graduate, currently pursuing further studies in IT
+
 ### 🌱 Currently Focusing On
 
 - **Python**: Delving deeper into Python for backend development and data analysis.
@@ -15,7 +24,11 @@ I’m a developer and designer passionate about building innovative web and mobi
 
 Open to internships, part-time roles, and freelance projects in web/app development and design. Enthusiastic about contributing to open-source projects and collaborating on innovative ideas.
 
-### 🛠️ Technologies & Tools
+### 💡 Fun Fact
+
+I love solving complex problems with creative solutions and have a strong imagination for visualizing design and functionality.
+
+## 🛠️ Technologies & Tools
 
 - **Languages**: Java, Python, Kotlin, JavaScript
 - **Web Technologies**: HTML, CSS, React, Tailwind CSS
@@ -26,7 +39,7 @@ Open to internships, part-time roles, and freelance projects in web/app developm
 
 ## 🚀 My Startup: [Minta](https://minta.in)
 
-**Minta** is my ambitious tech startup focused on delivering innovative solutions across various sectors. Our mission is to address significant tech challenges and provide valuable services to a wide range of industries.
+**Minta** is my ambitious tech startup focused on delivering innovative solutions across various sectors. Our mission is to address significant tech challenges and provide valuable services to a wide range of industries. Currently, **Minta** and its associated products are in development.
 
 ### Key Areas of Focus:
 - **Education**: Developing platforms and tools that enhance learning experiences and educational resources.
@@ -35,20 +48,18 @@ Open to internships, part-time roles, and freelance projects in web/app developm
 - **Artificial Intelligence**: Innovating with AI technologies to offer advanced solutions and services.
 - **Agriculture**: Providing tech solutions to support agricultural advancements and efficiency.
 
-### Products:
-- **Innomate**: A tech-education platform designed to foster a community of students passionate about technology. It enables users to share project ideas, discuss study insights, and network effectively without distractions. **Innomate** is set to launch next year.
-- **QCON AI**: An advanced AI system that offers human-like interaction, reasoning, and conversational abilities. It aims to revolutionize how we interact with artificial intelligence. **QCON AI** is also scheduled for launch next year.
+### Products in Development:
+- **Innomate**: A tech-education platform designed to foster a community of students passionate about technology. It will enable users to share project ideas, discuss study insights, and network effectively without distractions. **Innomate** is currently in development and is planned to launch next year.
+- **QCON AI**: An advanced AI system offering human-like interaction, reasoning, and conversational abilities. **QCON AI** aims to revolutionize how we interact with artificial intelligence and is also in development with a planned launch next year.
 
 ## 🌟 MAU (Mathematical and Algorithmic Utility)
 
-MAU is a cutting-edge programming language developed by Minta to simplify mathematical and algorithmic computations. It combines human-readable syntax with powerful arithmetic capabilities to offer a versatile tool for developers.
+MAU is a cutting-edge programming language developed by Minta to simplify mathematical and algorithmic computations. It combines human-readable syntax with powerful arithmetic capabilities to offer a versatile tool for developers. MAU is currently in development and aims to become a globally recognized language for both academic and practical applications.
 
 ### Key Features:
 - **Human-Readable Syntax**: Designed to be easy to read and write, making complex mathematical and algorithmic tasks more approachable.
 - **Efficient Arithmetic Operations**: Optimized for high-performance calculations and algorithmic tasks.
 - **Broad Applicability**: Suitable for a wide range of applications, from academic research to practical development.
-
-MAU aims to become a globally recognized language, bridging the gap between human-friendly syntax and efficient computational performance.
 
 ## 🤝 Interested in Collaborating?
 
