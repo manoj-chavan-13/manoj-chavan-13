@@ -21,11 +21,11 @@ I love solving complex problems with creative solutions and have a strong imagin
 
 ## 🛠️ Technologies & Tools
 
-- **Languages**: Java, Python, Kotlin, JavaScript
+- **Languages**: Java, Python,JavaScript
 - **Web Technologies**: HTML, CSS, React, Tailwind CSS
-- **App Development**: Android (Java, Kotlin), Flutter
-- **Backend Development**: Node.js, Express.js, Flask
-- **Design Tools**: Adobe XD, Figma, Photoshop, Illustrator
+- **App Development**: Android (Java), Flutter
+- **Backend Development**: Node.js, Express.js,
+- **Design Tools**: Adobe XD, Figma,Illustrator
 - **Deployment**: Vercel, OnRender, Firebase
 
 ## 🚀 My Startup: [Minta](https://minta.in)
