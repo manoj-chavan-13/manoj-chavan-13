@@ -43,7 +43,7 @@ I love solving complex problems with creative solutions and have a strong imagin
 - **Innomate**: A tech-education platform designed to build a community of students passionate about technology. It will facilitate project idea sharing, study discussions, and effective networking without distractions. **Innomate** is in development and planned for launch next year.
 - **QCON AI**: An advanced AI system offering human-like interaction, reasoning, and conversational abilities. **QCON AI** aims to transform human-AI interactions and is currently being developed with a planned launch next year.
 
-## 🌟 MAU (Mathematical and Algorithmic Utility)
+## 🌟 MUPG (Mathematical and Algorithmic Utility)
 
 MAU is a cutting-edge programming language developed by Minta to simplify mathematical and algorithmic computations. It features human-readable syntax combined with powerful arithmetic capabilities to offer a versatile tool for developers. MAU is currently in development with the goal of becoming a globally recognized language for both academic and practical applications.
 
