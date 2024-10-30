@@ -7,6 +7,9 @@
 <link href="https://fonts.googleapis.com/css2?family=Delius&display=swap" rel="stylesheet">
 
 
+![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=manoj-chavan-13.visitor-count)
+
+
 <p align="center">
   <img src="https://img.shields.io/badge/Made_with-❤️-red" alt="Made with Love" />
   <img src="https://img.shields.io/badge/Android-Java-3DDC84?logo=android&logoColor=white" alt="Android" />
