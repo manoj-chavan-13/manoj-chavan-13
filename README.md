@@ -1,9 +1,10 @@
-<h1 align="center" style="font-family: 'Dancing Script', cursive; font-size: 28px; color: #3DDC84;">
-  <img src="https://readme-typing-svg.demolab.com?font=Dancing+Script&size=28&duration=2800&pause=800&color=3DDC84&center=true&vCenter=true&width=460&lines=Hello%2C+I'm+Manoj+Chavan;Full+Stack+Developer;Innomate+come+soon" alt="Typing SVG" />
+
+<h1 align="center" style="font-family: 'Delius', cursive; font-size: 28px; color: #3DDC84;">
+  <img src="https://readme-typing-svg.demolab.com?font=Delius&size=28&duration=2800&pause=800&color=3DDC84&center=true&vCenter=true&width=460&lines=Hello%2C+I'm+Manoj+Chavan;Full+Stack+Developer;Innomate+come+soon" alt="Typing SVG" />
 </h1>
 
 <!-- Add this link in the <head> section of your HTML to import the font -->
-<link href="https://fonts.googleapis.com/css2?family=Dancing+Script&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Delius&display=swap" rel="stylesheet">
 
 
 <p align="center">
