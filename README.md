@@ -6,6 +6,7 @@
   <img src="https://img.shields.io/badge/Made_with-❤️-red" alt="Made with Love" />
   <img src="https://img.shields.io/badge/Android-Java-3DDC84?logo=android&logoColor=white" alt="Android" />
   <img src="https://img.shields.io/badge/React-JS-61DAFB?logo=react&logoColor=white" alt="React" />
+  <img src="https://img.shields.io/badge/Node.js-JS-339933?logo=node.js&logoColor=white" alt="Node.js" />
 </p>
 
 ---
