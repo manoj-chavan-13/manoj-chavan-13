@@ -79,7 +79,6 @@
         A platform designed to foster creativity and innovation among students through collaboration and idea-sharing.
       </p>
     </td>
-
     <td align="center" style="border: 1px solid #ccc; border-radius: 8px; padding: 20px; width: 50%; text-align: center; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);">
       <h3>PlayBucket</h3>
       <a href="https://playbucket.baremind.fun" target="_blank">
