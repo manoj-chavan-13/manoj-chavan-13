@@ -66,16 +66,25 @@
 
 ---
 
-<h2 align="center" style="margin-top: 40px;">🌟 Projects to Check Out</h2>
+<h2 align="center" style="margin-top: 40px;">🌟 Check Out My Other Projects</h2>
 
-<div align="center">
+<div align="center" style="display: inline-block; border: 1px solid #ccc; border-radius: 8px; padding: 20px; width: 300px; margin: 10px;">
   <h3>BareMind</h3>
+  <a href="https://baremind.fun" target="_blank">
+    <img src="https://baremind.fun/logo.jpeg" alt="BareMind Logo" style="width: 100px; height: auto;" />
+  </a>
   <p>
-    <em>Check out <strong>BareMind</strong>, a project designed to foster mental well-being and mindfulness.</em>
+    A platform designed to foster creativity and innovation among students through collaboration and idea-sharing.
   </p>
+</div>
+
+<div align="center" style="display: inline-block; border: 1px solid #ccc; border-radius: 8px; padding: 20px; width: 300px; margin: 10px;">
   <h3>PlayBucket</h3>
+  <a href="https://playbucket.baremind.fun" target="_blank">
+    <img src="https://playbucket.baremind.fun/logo.png" alt="PlayBucket Logo" style="width: 100px; height: auto;" />
+  </a>
   <p>
-    <em>Discover <strong>PlayBucket</strong>, an interactive YouTube playlist environment that enhances learning through curated content.</em>
+    A YouTube playlist environment that enhances learning through curated content tailored for student needs.
   </p>
 </div>
 
