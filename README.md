@@ -1,4 +1,4 @@
-<h1 align="center">
+<h1 align="center" style="font-family: 'Fira Code', monospace; font-size: 28px; color: #3DDC84;">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2800&pause=800&color=3DDC84&center=true&vCenter=true&width=460&lines=Hello%2C+I'm+Manoj+Chavan;Full+Stack+Developer;Innomate+come+soon" alt="Typing SVG" />
 </h1>
 
@@ -11,7 +11,7 @@
 
 ---
 
-<div align="center">
+<div align="center" style="background-color: #f9f9f9; border-radius: 10px; padding: 20px; box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);">
   <h2>👋 Welcome to My Profile!</h2>
   <p>
     I’m <strong>Manoj Chavan</strong>, a passionate <strong>Full Stack Developer</strong> committed to building impactful, user-friendly applications. 
@@ -26,11 +26,11 @@
 
 <table align="center" style="width:100%; border: none;">
   <tr>
-    <td align="center" width="50%">
+    <td align="center" width="50%" style="padding: 20px;">
       <img src="https://img.shields.io/badge/Android%20Development-Java%20%7C%20Kotlin-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
       <br><strong>Crafting seamless, responsive, and high-performance mobile apps.</strong>
     </td>
-    <td align="center" width="50%">
+    <td align="center" width="50%" style="padding: 20px;">
       <img src="https://img.shields.io/badge/Innomate-Tech%20Community%20Platform-blue?style=for-the-badge" />
       <br><strong>Building a collaborative community for students to share ideas and grow.</strong>
     </td>
@@ -68,20 +68,20 @@
 
 <h2 align="center" style="margin-top: 40px;">🌟 Check Out My Other Projects</h2>
 
-<div align="center" style="display: inline-block; border: 1px solid #ccc; border-radius: 8px; padding: 20px; width: 300px; margin: 10px;">
+<div align="center" style="display: inline-block; border: 1px solid #ccc; border-radius: 8px; padding: 20px; width: 300px; margin: 10px; background-color: #ffffff; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
   <h3>BareMind</h3>
   <a href="https://baremind.fun" target="_blank">
-    <img src="https://baremind.fun/logo.jpeg" alt="BareMind Logo" style="width: 100px; height: auto;  border-radius: 8px" />
+    <img src="https://baremind.fun/logo.jpeg" alt="BareMind Logo" style="width: 100px; height: auto; border-radius: 8px;" />
   </a>
   <p>
     A platform designed to foster creativity and innovation among students through collaboration and idea-sharing.
   </p>
 </div>
 
-<div align="center" style="display: inline-block; border: 1px solid #ccc; border-radius: 8px; padding: 20px; width: 300px; margin: 10px;">
+<div align="center" style="display: inline-block; border: 1px solid #ccc; border-radius: 8px; padding: 20px; width: 300px; margin: 10px; background-color: #ffffff; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
   <h3>PlayBucket</h3>
   <a href="https://playbucket.baremind.fun" target="_blank">
-    <img src="https://playbucket.baremind.fun/logo.png" alt="PlayBucket Logo" style="width: 100px; height: auto;" />
+    <img src="https://playbucket.baremind.fun/logo.png" alt="PlayBucket Logo" style="width: 100px; height: auto; border-radius: 8px;" />
   </a>
   <p>
     A YouTube playlist environment that enhances learning through curated content tailored for student needs.
