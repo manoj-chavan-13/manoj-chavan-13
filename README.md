@@ -71,7 +71,7 @@
 <div align="center" style="display: inline-block; border: 1px solid #ccc; border-radius: 8px; padding: 20px; width: 300px; margin: 10px;">
   <h3>BareMind</h3>
   <a href="https://baremind.fun" target="_blank">
-    <img src="https://baremind.fun/logo.jpeg" alt="BareMind Logo" style="width: 100px; height: auto;" />
+    <img src="https://baremind.fun/logo.jpeg" alt="BareMind Logo" style="width: 100px; height: auto;  border-radius: 8px" />
   </a>
   <p>
     A platform designed to foster creativity and innovation among students through collaboration and idea-sharing.
