@@ -1,6 +1,7 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2800&pause=800&color=3DDC84&center=true&vCenter=true&width=460&lines=Hello%2C+I'm+Manoj+Chavan;Full+Stack+Developer;Innomate+come+soon" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Roboto&size=28&duration=2800&pause=800&color=3DDC84&center=true&vCenter=true&width=460&lines=Hello%2C+I'm+Manoj+Chavan;Full+Stack+Developer;Innomate+come+soon" alt="Typing SVG" />
 </h1>
+
 
 <p align="center">
   <img src="https://img.shields.io/badge/Made_with-❤️-red" alt="Made with Love" />
