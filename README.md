@@ -66,6 +66,21 @@
 
 ---
 
+<h2 align="center" style="margin-top: 40px;">🌟 Projects to Check Out</h2>
+
+<div align="center">
+  <h3>BareMind</h3>
+  <p>
+    <em>Check out <strong>BareMind</strong>, a project designed to foster mental well-being and mindfulness.</em>
+  </p>
+  <h3>PlayBucket</h3>
+  <p>
+    <em>Discover <strong>PlayBucket</strong>, an interactive YouTube playlist environment that enhances learning through curated content.</em>
+  </p>
+</div>
+
+---
+
 <h3 align="center" style="margin-top: 40px;">🤝 Interested in Collaborating?</h3>
 <p align="center">If you’re excited about my projects or share similar interests, let’s connect! I'm open to new ideas, collaborations, and open-source contributions.</p>
 
