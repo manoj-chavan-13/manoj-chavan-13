@@ -1,6 +1,6 @@
 
-<h1 align="center" style="font-family: 'Delius', cursive; font-size: 28px; color: #3DDC84;">
-  <img src="https://readme-typing-svg.demolab.com?font=Delius&size=28&duration=2800&pause=800&color=3DDC84&center=true&vCenter=true&width=460&lines=Hello%2C+I'm+Manoj+Chavan;Full+Stack+Developer;Innomate+come+soon" alt="Typing SVG" />
+<h1 align="center" style="font-family: 'Delius', cursive; font-size: 28px; color: #FF6F61;">
+  <img src="https://readme-typing-svg.demolab.com?font=Delius&size=28&duration=2800&pause=800&color=FF6F61&center=true&vCenter=true&width=460&lines=Hello%2C+I'm+Manoj+Chavan;Full+Stack+Developer;Innomate+come+soon" alt="Typing SVG" />
 </h1>
 
 <!-- Add this link in the <head> section of your HTML to import the font -->
