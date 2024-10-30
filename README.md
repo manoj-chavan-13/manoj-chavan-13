@@ -11,13 +11,18 @@
 
 ---
 
-## 👋 Welcome to My Profile!
-
-I’m **Manoj Chavan**, a passionate **Full Stack Developer** committed to building impactful, user-friendly applications. Currently, I'm focused on **Android development** and bringing **Innomate** to life—a tech-education platform empowering student communities. Let’s dive into my world of code and creativity!
+<div align="center">
+  <h2>👋 Welcome to My Profile!</h2>
+  <p>
+    I’m <strong>Manoj Chavan</strong>, a passionate <strong>Full Stack Developer</strong> committed to building impactful, user-friendly applications. 
+    Currently, I'm focused on <strong>Android development</strong> and bringing <strong>Innomate</strong> to life—a tech-education platform empowering student communities. 
+    Let’s dive into my world of code and creativity!
+  </p>
+</div>
 
 ---
 
-<h2 align="center">🌱 Current Focus: Android & Innomate</h2>
+<h2 align="center" style="margin-top: 40px;">🌱 Current Focus: Android & Innomate</h2>
 
 <table align="center" style="width:100%; border: none;">
   <tr>
@@ -34,15 +39,21 @@ I’m **Manoj Chavan**, a passionate **Full Stack Developer** committed to build
 
 ---
 
-### 👨‍💻 About Me
-I'm a developer and designer with a background in engineering, blending technical skills with design to create intuitive digital experiences.
+<div align="center" style="margin-top: 40px;">
+  <h2>👨‍💻 About Me</h2>
+  <p>
+    I'm a developer and designer with a background in engineering, blending technical skills with design to create intuitive digital experiences.
+  </p>
 
-### 💡 Fun Fact
-I’m a problem solver at heart with a knack for creative, functional solutions. My mind is always visualizing designs, which I bring to life through code.
+  <h3>💡 Fun Fact</h3>
+  <p>
+    I’m a problem solver at heart with a knack for creative, functional solutions. My mind is always visualizing designs, which I bring to life through code.
+  </p>
+</div>
 
 ---
 
-## 🛠️ Technologies & Tools
+<h2 align="center" style="margin-top: 40px;">🛠️ Technologies & Tools</h2>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
@@ -55,7 +66,7 @@ I’m a problem solver at heart with a knack for creative, functional solutions.
 
 ---
 
-<h3 align="center">🤝 Interested in Collaborating?</h3>
+<h3 align="center" style="margin-top: 40px;">🤝 Interested in Collaborating?</h3>
 <p align="center">If you’re excited about my projects or share similar interests, let’s connect! I'm open to new ideas, collaborations, and open-source contributions.</p>
 
 <h3 align="center">💬 Connect with Me</h3>
@@ -70,7 +81,7 @@ I’m a problem solver at heart with a knack for creative, functional solutions.
 
 ---
 
-<h4 align="center">😄 Pronouns: He/Him</h4>
+<h4 align="center" style="margin-top: 40px;">😄 Pronouns: He/Him</h4>
 
 <p align="center">
   <em>Thank you for stopping by my profile! Let’s create something amazing together.</em> 🌍🚀
