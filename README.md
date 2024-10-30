@@ -68,29 +68,30 @@
 
 <h2 align="center" style="margin-top: 40px;">🌟 Check Out My Other Projects</h2>
 
-<div align="center" style="display: flex; justify-content: center; flex-wrap: wrap; gap: 20px;">
-  
-  <div style="border: 1px solid #ccc; border-radius: 8px; padding: 20px; width: 300px; text-align: center; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);">
-    <h3>BareMind</h3>
-    <a href="https://baremind.fun" target="_blank">
-      <img src="https://baremind.fun/logo.jpeg" alt="BareMind Logo" style="width: 100px; height: auto;  border-radius: 8px" />
-    </a>
-    <p>
-      A platform designed to foster creativity and innovation among students through collaboration and idea-sharing.
-    </p>
-  </div>
+<table align="center" style="width: 100%; border-collapse: collapse;">
+  <tr>
+    <td align="center" style="border: 1px solid #ccc; border-radius: 8px; padding: 20px; width: 300px; text-align: center; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);">
+      <h3>BareMind</h3>
+      <a href="https://baremind.fun" target="_blank">
+        <img src="https://baremind.fun/logo.jpeg" alt="BareMind Logo" style="width: 100px; height: auto; border-radius: 8px;" />
+      </a>
+      <p>
+        A platform designed to foster creativity and innovation among students through collaboration and idea-sharing.
+      </p>
+    </td>
 
-  <div style="border: 1px solid #ccc; border-radius: 8px; padding: 20px; width: 300px; text-align: center; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);">
-    <h3>PlayBucket</h3>
-    <a href="https://playbucket.baremind.fun" target="_blank">
-      <img src="https://playbucket.baremind.fun/logo.png" alt="PlayBucket Logo" style="width: 100px; height: auto;" />
-    </a>
-    <p>
-      A YouTube playlist environment that enhances learning through curated content tailored for student needs.
-    </p>
-  </div>
-  
-</div>
+    <td align="center" style="border: 1px solid #ccc; border-radius: 8px; padding: 20px; width: 300px; text-align: center; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);">
+      <h3>PlayBucket</h3>
+      <a href="https://playbucket.baremind.fun" target="_blank">
+        <img src="https://playbucket.baremind.fun/logo.png" alt="PlayBucket Logo" style="width: 100px; height: auto;" />
+      </a>
+      <p>
+        A YouTube playlist environment that enhances learning through curated content tailored for student needs.
+      </p>
+    </td>
+  </tr>
+</table>
+
 
 ---
 
