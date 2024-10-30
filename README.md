@@ -13,7 +13,7 @@
 
 ## 👋 Welcome to My Profile!
 
-I’m **Manoj Chavan**, a passionate **Full Stack Developer** with a deep commitment to building impactful, user-friendly applications. Currently, I'm focused on **Android development** and bringing **Innomate** to life—a tech-education platform empowering student communities. Let’s dive into my world of code and creativity!
+I’m **Manoj Chavan**, a passionate **Full Stack Developer** committed to building impactful, user-friendly applications. Currently, I'm focused on **Android development** and bringing **Innomate** to life—a tech-education platform empowering student communities. Let’s dive into my world of code and creativity!
 
 ---
 
@@ -23,11 +23,11 @@ I’m **Manoj Chavan**, a passionate **Full Stack Developer** with a deep commit
   <tr>
     <td align="center" width="50%">
       <img src="https://img.shields.io/badge/Android%20Development-Java%20%7C%20Kotlin-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
-      <br>Crafting seamless, responsive, and high-performance mobile apps.
+      <br><strong>Crafting seamless, responsive, and high-performance mobile apps.</strong>
     </td>
     <td align="center" width="50%">
       <img src="https://img.shields.io/badge/Innomate-Tech%20Community%20Platform-blue?style=for-the-badge" />
-      <br>Building a collaborative community for students to share ideas and grow.
+      <br><strong>Building a collaborative community for students to share ideas and grow.</strong>
     </td>
   </tr>
 </table>
@@ -45,12 +45,12 @@ I’m a problem solver at heart with a knack for creative, functional solutions.
 ## 🛠️ Technologies & Tools
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/React-JS-61DAFB?style=flat-square&logo=react&logoColor=white" alt="React" />
-  <img src="https://img.shields.io/badge/Node.js-JS-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Android-Java-3DDC84?style=flat-square&logo=android&logoColor=white" alt="Android" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/React-JS-61DAFB?style=for-the-badge&logo=react&logoColor=white" alt="React" />
+  <img src="https://img.shields.io/badge/Node.js-JS-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Android-Java-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android" />
 </p>
 
 ---
@@ -75,29 +75,3 @@ I’m a problem solver at heart with a knack for creative, functional solutions.
 <p align="center">
   <em>Thank you for stopping by my profile! Let’s create something amazing together.</em> 🌍🚀
 </p>
-
-<style>
-h1 {
-  animation: bounce 2s infinite;
-}
-
-@keyframes bounce {
-  0%, 20%, 50%, 80%, 100% {
-    transform: translateY(0);
-  }
-  40% {
-    transform: translateY(-10px);
-  }
-  60% {
-    transform: translateY(-5px);
-  }
-}
-
-p {
-  transition: transform 0.3s;
-}
-
-p:hover {
-  transform: scale(1.05);
-}
-</style>
