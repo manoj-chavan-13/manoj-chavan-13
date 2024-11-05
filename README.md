@@ -13,7 +13,7 @@
   <img src="https://img.shields.io/badge/React-JS-61DAFB?logo=react&logoColor=white" alt="React" />
   <img src="https://img.shields.io/badge/Node.js-JS-339933?logo=node.js&logoColor=white" alt="Node.js" />
 
-
+<img  align=right src="https://komarev.com/ghpvc/?username=manoj-chavan-13&label=Profile%20views&color=blueviolet&style=for-the-badge" alt="profile views" />
 </p>
 
 ---
