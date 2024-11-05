@@ -3,7 +3,10 @@
     <img src="https://readme-typing-svg.demolab.com?font=Yusei+Magic&size=24&duration=2800&pause=800&color=800080&center=true&vCenter=true&width=460&lines=Hello%2C+I'm+Manoj+Chavan;Full+Stack+Developer;Innomate+come+soon" alt="Typing SVG" />
   </h1>
 </div>
-
+ <br>
+ <br>
+  <br>
+ <br>
 <!-- Add this link in the <head> section of your HTML to import the font -->
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -21,7 +24,10 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=manoj-chavan-13&label=Profile%20views&color=blueviolet&style=for-the-badge" alt="Profile views" />
 </p>
-
+ <br>
+ <br>
+  <br>
+ <br>
 <div align="center">
   <h2>👋 Welcome to My Profile! </h2>
   <p>
@@ -31,7 +37,10 @@
   </p>
 </div>
 
-
+ <br>
+ <br>
+  <br>
+ <br>
 
 <h2 align="center" style="margin-top: 40px;">🌱 Current Focus: Android & Innomate</h2>
 
@@ -48,7 +57,12 @@
   </tr>
 </table>
 
-
+ <br>
+ <br>
+  <br>
+ <br>
+  <br>
+ 
 
 <div align="center" style="margin-top: 40px;">
   <h2>👨‍💻 About Me</h2>
@@ -61,7 +75,12 @@
     I’m a problem solver at heart with a knack for creative, functional solutions. My mind is always visualizing designs, which I bring to life through code.
   </p>
 </div>
-
+ <br>
+ <br>
+  <br>
+ <br>
+  <br>
+ <br>
 <h2 align="center" style="margin-top: 40px; font-family: 'Arial', sans-serif; color: #333; font-size: 24px; font-weight: bold; text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.1);">🛠️ Technologies & Tools</h2>
 
 <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px; padding: 20px; background-color: #f9f9f9; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
@@ -84,7 +103,12 @@
   <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'"/>
 </div>
 
-
+ <br>
+ <br>
+  <br>
+ <br>
+  <br>
+ <br>
 <h2 align="center" style="margin-top: 40px;">🌟 Check Out My Other Projects</h2>
 
 <table align="center" style="width: 100%; border-collapse: collapse;">
@@ -110,11 +134,15 @@
   </tr>
 </table>
 
-
+ <br>
+ <br>
+  <br>
+ <br>
 
 <h3 align="center" style="margin-top: 40px;">🤝 Interested in Collaborating?</h3>
 <p align="center">If you’re excited about my projects or share similar interests, let’s connect! I'm open to new ideas, collaborations, and open-source contributions.</p>
-
+ <br>
+ <br>
 <h3 align="center">💬 Connect with Me</h3>
 <p align="center">
   <a href="https://www.linkedin.com/in/manojchavan1311" target="_blank">
@@ -126,10 +154,7 @@
 </p>
  <br>
  <br>
-  <br>
-   <br>
-    <br>
-     <br>
+
 <h4 align="center" style="margin-top: 40px;">😄 Pronouns: He/Him</h4>
 
 <p align="center">
