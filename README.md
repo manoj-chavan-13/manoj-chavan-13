@@ -1,15 +1,13 @@
 <div align="center" style="padding: 20px; border-radius: 15px; background-color: #ffcc66;">
-  <h1 style="font-family: 'Delius', cursive; font-size: 24px; color: #FF6F61; font-weight: bold;">
-    <img src="https://readme-typing-svg.demolab.com?font=Delius&size=24&duration=2800&pause=800&color=FF6F61&center=true&vCenter=true&width=460&lines=Hello%2C+I'm+Manoj+Chavan;Full+Stack+Developer;Innomate+come+soon" alt="Typing SVG" />
+  <h1 style="font-family: 'Bungee', cursive; font-size: 24px; color: #FF6F61; font-weight: bold;">
+    <img src="https://readme-typing-svg.demolab.com?font=Bungee&size=24&duration=2800&pause=800&color=FF6F61&center=true&vCenter=true&width=460&lines=Hello%2C+I'm+Manoj+Chavan;Full+Stack+Developer;Innomate+come+soon" alt="Typing SVG" />
   </h1>
 </div>
 
-
-
-
 <!-- Add this link in the <head> section of your HTML to import the font -->
-<link href="https://fonts.googleapis.com/css2?family=Delius&display=swap" rel="stylesheet">
-
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Bungee&display=swap" rel="stylesheet">
 
 <p align="center">
   <img src="https://img.shields.io/badge/Made_with-❤️-red" alt="Made with Love" style="width: 100px; height: 30px; display: inline-block; border-radius: 10px;" />
