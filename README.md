@@ -1,9 +1,9 @@
-
-<div align="center" style="padding: 20px; border-radius: 15px; background: linear-gradient(to right, #ff6f61, #ffcc66);">
+<div align="center" style="padding: 20px; border-radius: 15px; background-color: #ffcc66;">
   <h1 style="font-family: 'Delius', cursive; font-size: 24px; color: #FF6F61; font-weight: bold;">
     <img src="https://readme-typing-svg.demolab.com?font=Delius&size=24&duration=2800&pause=800&color=FF6F61&center=true&vCenter=true&width=460&lines=Hello%2C+I'm+Manoj+Chavan;Full+Stack+Developer;Innomate+come+soon" alt="Typing SVG" />
   </h1>
 </div>
+
 
 
 
