@@ -124,8 +124,12 @@
     <img src="https://img.shields.io/badge/Email-hello%40minta.in-D14836?logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
-
-
+ <br>
+ <br>
+  <br>
+   <br>
+    <br>
+     <br>
 <h4 align="center" style="margin-top: 40px;">😄 Pronouns: He/Him</h4>
 
 <p align="center">
