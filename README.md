@@ -19,7 +19,7 @@
 
 
 
-<img src="https://komarev.com/ghpvc/?username=manoj-chavan-13&label=Profile%20views&color=blueviolet&style=for-the-badge" alt="Profile views" />
+<img src="https://komarev.com/ghpvc/?username=manoj-chavan-13&label=Profile%20views&color=blueviolet&style=for-the-badge" alt="Profile views" align="center" />
 <div align="center">
   <h2>👋 Welcome to My Profile! </h2>
   <p>
