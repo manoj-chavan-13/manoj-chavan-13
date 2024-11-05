@@ -1,11 +1,14 @@
 
-<div style="text-align: center; padding: 20px; border-radius: 15px; background: linear-gradient(to right, #ff6f61, #ffcc66);">
+<div style="display: flex; justify-content: center; align-items: center; height: 100vh; background: linear-gradient(to right, #ff6f61, #ffcc66);">
 
-  <h1 style="font-family: 'Delius', cursive; font-size: 24px; color: #FF6F61; font-weight: bold;">
-    <img src="https://readme-typing-svg.demolab.com?font=Delius&size=24&duration=2800&pause=800&color=FF6F61&center=true&vCenter=true&width=460&lines=Hello%2C+I'm+Manoj+Chavan;Full+Stack+Developer;Innomate+come+soon" alt="Typing SVG" />
-  </h1>
+  <div style="text-align: center; padding: 20px; border-radius: 15px; background: rgba(255, 255, 255, 0.8);">
+    <h1 style="font-family: 'Delius', cursive; font-size: 24px; color: #FF6F61; font-weight: bold;">
+      <img src="https://readme-typing-svg.demolab.com?font=Delius&size=24&duration=2800&pause=800&color=FF6F61&center=true&vCenter=true&width=460&lines=Hello%2C+I'm+Manoj+Chavan;Full+Stack+Developer;Innomate+come+soon" alt="Typing SVG" />
+    </h1>
+  </div>
   
 </div>
+
 
 <!-- Add this link in the <head> section of your HTML to import the font -->
 <link href="https://fonts.googleapis.com/css2?family=Delius&display=swap" rel="stylesheet">
