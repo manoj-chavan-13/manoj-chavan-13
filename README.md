@@ -4,9 +4,7 @@
   </h1>
 </div>
  <br>
- <br>
-  <br>
- <br>
+
 <!-- Add this link in the <head> section of your HTML to import the font -->
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -25,9 +23,7 @@
   <img src="https://komarev.com/ghpvc/?username=manoj-chavan-13&label=Profile%20views&color=blueviolet&style=for-the-badge" alt="Profile views" />
 </p>
  <br>
- <br>
-  <br>
- <br>
+
 <div align="center">
   <h2>👋 Welcome to My Profile! </h2>
   <p>
@@ -37,9 +33,6 @@
   </p>
 </div>
 
- <br>
- <br>
-  <br>
  <br>
 
 <h2 align="center" style="margin-top: 40px;">🌱 Current Focus: Android & Innomate</h2>
@@ -58,10 +51,7 @@
 </table>
 
  <br>
- <br>
-  <br>
- <br>
-  <br>
+
  
 
 <div align="center" style="margin-top: 40px;">
@@ -70,17 +60,14 @@
     I'm a developer and designer with a background in engineering, blending technical skills with design to create intuitive digital experiences.
   </p>
 
+ <br> <br>
   <h3>💡 Fun Fact</h3>
   <p>
     I’m a problem solver at heart with a knack for creative, functional solutions. My mind is always visualizing designs, which I bring to life through code.
   </p>
 </div>
  <br>
- <br>
-  <br>
- <br>
-  <br>
- <br>
+
 <h2 align="center" style="margin-top: 40px; font-family: 'Arial', sans-serif; color: #333; font-size: 24px; font-weight: bold; text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.1);">🛠️ Technologies & Tools</h2>
 
 <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px; padding: 20px; background-color: #f9f9f9; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
@@ -104,11 +91,7 @@
 </div>
 
  <br>
- <br>
-  <br>
- <br>
-  <br>
- <br>
+
 <h2 align="center" style="margin-top: 40px;">🌟 Check Out My Other Projects</h2>
 
 <table align="center" style="width: 100%; border-collapse: collapse;">
@@ -135,9 +118,7 @@
 </table>
 
  <br>
- <br>
-  <br>
- <br>
+
 
 <h3 align="center" style="margin-top: 40px;">🤝 Interested in Collaborating?</h3>
 <p align="center">If you’re excited about my projects or share similar interests, let’s connect! I'm open to new ideas, collaborations, and open-source contributions.</p>
@@ -153,7 +134,7 @@
   </a>
 </p>
  <br>
- <br>
+
 
 <h4 align="center" style="margin-top: 40px;">😄 Pronouns: He/Him</h4>
 
