@@ -19,9 +19,9 @@
 
 
 
-
+<img src="https://komarev.com/ghpvc/?username=manoj-chavan-13&label=Profile%20views&color=blueviolet&style=for-the-badge" alt="Profile views" />
 <div align="center">
-  <h2>👋 Welcome to My Profile! <img src="https://komarev.com/ghpvc/?username=manoj-chavan-13&label=Profile%20views&color=blueviolet&style=for-the-badge" alt="Profile views" /></h2>
+  <h2>👋 Welcome to My Profile! </h2>
   <p>
     I’m <strong>Manoj Chavan</strong>, a passionate <strong>Full Stack Developer</strong> committed to building impactful, user-friendly applications. 
     Currently, I'm focused on <strong>Android development</strong> and bringing <strong>Innomate</strong> to life—a tech-education platform empowering student communities. 
