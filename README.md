@@ -8,11 +8,11 @@
 
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Made_with-❤️-red" alt="Made with Love" style="width: 150px; height: 40px; display: inline-block;" />
-  <img src="https://img.shields.io/badge/Android-Java-3DDC84?logo=android&logoColor=white" alt="Android" style="width: 150px; height: 40px; display: inline-block;" />
-  <img src="https://img.shields.io/badge/React-JS-61DAFB?logo=react&logoColor=white" alt="React" style="width: 150px; height: 40px; display: inline-block;" />
-  <img src="https://img.shields.io/badge/Node.js-JS-339933?logo=node.js&logoColor=white" alt="Node.js" style="width: 150px; height: 40px; display: inline-block;" />
-  <img src="https://komarev.com/ghpvc/?username=manoj-chavan-13&label=Profile%20views&color=blueviolet&style=for-the-badge" alt="profile views" style="width: 150px; height: 40px; display: inline-block;" />
+  <img src="https://img.shields.io/badge/Made_with-❤️-red" alt="Made with Love" style="width: 150px; height: 40px; display: inline-block; border-radius: 10px;" />
+  <img src="https://img.shields.io/badge/Android-Java-3DDC84?logo=android&logoColor=white" alt="Android" style="width: 150px; height: 40px; display: inline-block; border-radius: 10px;" />
+  <img src="https://img.shields.io/badge/React-JS-61DAFB?logo=react&logoColor=white" alt="React" style="width: 150px; height: 40px; display: inline-block; border-radius: 10px;" />
+  <img src="https://img.shields.io/badge/Node.js-JS-339933?logo=node.js&logoColor=white" alt="Node.js" style="width: 150px; height: 40px; display: inline-block; border-radius: 10px;" />
+  <img src="https://komarev.com/ghpvc/?username=manoj-chavan-13&label=Profile%20views&color=blueviolet&style=for-the-badge" alt="profile views" style="width: 150px; height: 40px; display: inline-block; border-radius: 10px;" />
 </p>
 
 
