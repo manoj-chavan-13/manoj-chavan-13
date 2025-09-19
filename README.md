@@ -4,6 +4,7 @@ Theme: Futuristic Neon Tech
 -->
 
 <div align="center">
+<img width="1024" height="329" alt="image" src="https://github.com/user-attachments/assets/7f01e3b2-63a0-4a78-b4dc-6027c638e831" />
 
   <!-- Typing Animation -->
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00F5FF&center=true&vCenter=true&width=700&height=60&lines=Hey%2C+I'm+Manoj+Chavan+👋;Full+Stack+Developer;AI+%7C+Mobile+%7C+Web+%7C+Cloud;Building+Secure+%26+Scalable+Apps" alt="Typing Intro"/>
