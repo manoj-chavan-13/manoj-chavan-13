@@ -1,10 +1,8 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0f0c29,302b63,24243e&height=250&section=header&text=Manoj%20Chavan&fontSize=80&fontColor=00F5FF&animation=fadeIn&fontAlignY=35&desc=Architecting%20Scalable%20Web%20%26%20AI%20Solutions&descAlignY=60&descSize=20)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0f0c29,302b63,24243e&height=250&section=header&text=Manoj%20Chavan&fontSize=80&fontColor=00F5FF&animation=fadeIn&fontAlignY=35&desc=Architecting%20Scalable%20Web%20and%20AI%20Solutions&descAlignY=60&descSize=20)
 
 # Hi there, I'm Manoj Chavan 👋
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00F5FF&center=false&vCenter=false&width=600&lines=Full+Stack+Developer+🚀;Building+BeNexus+%26+LearnX+🤖;Cybersecurity+Enthusiast+🛡️" alt="Typing SVG" />
-</a>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00F5FF&center=false&vCenter=false&width=600&lines=Full+Stack+Developer+🚀;Building+BeNexus+and+LearnX+🤖;Cybersecurity+Enthusiast+🛡️)](https://git.io/typing-svg)
 
 I am a **Full Stack Developer** with an engineering background, blending logic and creativity to build solutions that scale. I focus on **web, mobile, and AI-powered systems** with clean, secure, and efficient code.
 
@@ -13,9 +11,7 @@ I am a **Full Stack Developer** with an engineering background, blending logic a
 * ⚡ **Motto:** *Build Fast. Break Nothing. Secure Everything.*
 * 📫 **Reach me:** [hello@minta.in](mailto:hello@minta.in)
 
-<a href="https://www.linkedin.com/in/manojchavan1311" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manojchavan1311)
 
 ---
 
