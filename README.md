@@ -19,8 +19,7 @@
 I’m a **Full Stack Developer** with an engineering background, blending **logic + creativity** to build solutions that scale.  
 Focused on **web, mobile, and AI-powered systems** with clean, secure, and efficient code.  
 
-- 🔭 Currently building: **Innomate** – an EdTech platform for students 🚀  
-- 🌱 Learning: **Cybersecurity + Advanced Android Patterns** - 👯 Open to: **Open-source & innovative projects** - 📫 Contact: [hello@minta.in](mailto:hello@minta.in) | [LinkedIn](https://www.linkedin.com/in/manojchavan1311)  
+- 🌱 Learning: **Cybersecurity + Advanced Android Patterns** - 👯 Open to: **Open-source & innovative projects** - 📫 Contact: [LinkedIn](https://www.linkedin.com/in/manojchavan1311)  
 - ⚡ Motto: *Code. Scale. Secure. Repeat.* ## 🚀 Tech Stack
 
 <div align="center">
@@ -86,10 +85,10 @@ Focused on **web, mobile, and AI-powered systems** with clean, secure, and effic
     </td>
     <td align="center" width="33%">
       <a href="https://learnxpro.vercel.app/" target="_blank">
-        <img src="https://placehold.co/100x100/0f0c29/FFF?text=L" width="100" height="100" style="border-radius:15px;" alt="BeNova"/>
+        <img src="https://placehold.co/100x100/0f0c29/FFF?text=L" width="100" height="100" style="border-radius:15px;" alt="LearnX"/>
       </a>
       <br/>
-      <h3>BeNova</h3>
+      <h3>LearnX</h3>
       <p>Your intelligent AI Learning Partner.</p>
     </td>
   </tr>
@@ -111,7 +110,6 @@ Focused on **web, mobile, and AI-powered systems** with clean, secure, and effic
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manojchavan1311)  
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hello@minta.in)  
 
 </div>
 
