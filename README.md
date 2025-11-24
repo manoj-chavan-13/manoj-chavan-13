@@ -19,8 +19,7 @@
 I’m a **Full Stack Developer** with an engineering background, blending **logic + creativity** to build solutions that scale.  
 Focused on **web, mobile, and AI-powered systems** with clean, secure, and efficient code.  
 
-- 🔭 Currently building: **Innomate** – an EdTech platform for students 🚀  
-- 🌱 Learning: **Cybersecurity + Advanced Android Patterns** - 👯 Open to: **Open-source & innovative projects** - 📫 Contact: [hello@minta.in](mailto:hello@minta.in) | [LinkedIn](https://www.linkedin.com/in/manojchavan1311)  
+- 🌱 Learning: **Cybersecurity + Advanced Android Patterns** - 👯 Open to: **Open-source & innovative projects** - 📫 Contact: [LinkedIn](https://www.linkedin.com/in/manojchavan1311)  
 - ⚡ Motto: *Code. Scale. Secure. Repeat.* ## 🚀 Tech Stack
 
 <div align="center">
@@ -93,13 +92,7 @@ Focused on **web, mobile, and AI-powered systems** with clean, secure, and effic
 </table>
 
 
-## 🐍 Contribution Snake
 
-<div align="center">
-  
-![snake gif](https://github.com/manoj-chavan-13/manoj-chavan-13/blob/output/github-contribution-grid-snake-dark.svg)
-
-</div>
 
 
 
@@ -117,5 +110,6 @@ Focused on **web, mobile, and AI-powered systems** with clean, secure, and effic
 <div align="center">
   
 ⚡ *"Turning code into scalable, secure, and impactful solutions."* ⚡  
+<img width="1024" height="434" alt="image" src="https://github.com/user-attachments/assets/f49de92c-dabb-4054-a068-477de9a3cbd6" />
 
 </div>
