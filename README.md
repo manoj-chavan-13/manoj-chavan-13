@@ -1,19 +1,11 @@
-<!--
-⚡ Manoj Chavan | Premium GitHub Profile
-Theme: Futuristic Neon (Cyan & Purple)
--->
-
 <div align="center">
 
-  <!-- 1. Dynamic Header (Fixed) -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,100:00F5FF&height=250&section=header&text=Manoj%20Chavan&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Architecting%20Scalable%20AI%20%26%20Web%20Solutions&descAlignY=60&descSize=20" width="100%" alt="Header Banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0f0c29,302b63,24243e&height=250&section=header&text=Manoj%20Chavan&fontSize=80&fontColor=00F5FF&animation=fadeIn&fontAlignY=35&desc=Architecting%20Scalable%20Web%20%26%20AI%20Solutions&descAlignY=60&descSize=20" width="100%" alt="Header Banner"/>
 
-  <!-- 2. Typing Animation -->
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=00F5FF&center=true&vCenter=true&width=800&lines=Full+Stack+Developer+🚀;Building+BeNexus+%26+LearnX+🤖;MERN+%7C+Flutter+%7C+AI+Integration;Cybersecurity+Enthusiast+🛡️" alt="Typing SVG" />
   </a>
 
-  <!-- 3. Social Links -->
   <p>
     <a href="https://www.linkedin.com/in/manojchavan1311" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
@@ -27,9 +19,6 @@ Theme: Futuristic Neon (Cyan & Purple)
 
 <br/>
 
-<!-- 
-  ABOUT ME SECTION
--->
 <div align="center"> 
   <h3>👨‍💻 The Code Wizard</h3>
 </div>
@@ -43,13 +32,9 @@ Theme: Futuristic Neon (Cyan & Purple)
 
 <br/>
 
-<!-- 
-  TECH STACK ARSENAL
--->
 <div align="center">
   <h3>🛠️ Tech Arsenal</h3>
   
-  <!-- Frontend -->
   <img src="https://img.shields.io/badge/React-20232a?style=flat-square&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js&logoColor=white" />
   <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
@@ -57,7 +42,6 @@ Theme: Futuristic Neon (Cyan & Purple)
   
   <br/>
   
-  <!-- Backend & AI -->
   <img src="https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
@@ -65,7 +49,6 @@ Theme: Futuristic Neon (Cyan & Purple)
   
   <br/>
   
-  <!-- Database & Cloud -->
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
@@ -73,9 +56,6 @@ Theme: Futuristic Neon (Cyan & Purple)
 
 <br/>
 
-<!-- 
-  FEATURED DEPLOYMENTS (Fixed & Clearly Showing)
--->
 <div align="center">
   <h3>🚀 Featured Deployments</h3>
 </div>
@@ -88,29 +68,25 @@ Theme: Futuristic Neon (Cyan & Purple)
 
 <br/>
 
-<!-- 
-  GITHUB STATS
--->
 <div align="center">
   <h3>📊 Development Metrics</h3>
-  <img src="https://github-readme-stats.vercel.app/api?username=manoj-chavan-13&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" height="170" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manoj-chavan-13&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" height="170" alt="languages graph" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=manoj-chavan-13&theme=tokyonight&hide_border=true&background=0d1117" height="170" alt="streak graph" />
+  
+  <p>
+    <img src="https://github-readme-stats.vercel.app/api?username=manoj-chavan-13&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="170" alt="github stats"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manoj-chavan-13&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="170" alt="top languages"/>
+  </p>
+  
+  <p>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=manoj-chavan-13&theme=tokyonight&hide_border=true&background=0D1117" height="170" alt="streak stats"/>
+  </p>
 </div>
 
 <br/>
 
-<!-- 
-  SNAKE ANIMATION (Fixed Path)
--->
 <div align="center">
   <img src="https://github.com/manoj-chavan-13/manoj-chavan-13/raw/output/github-contribution-grid-snake-dark.svg" width="100%" alt="snake animation"/>
 </div>
 
-<!-- 
-  FOOTER
--->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,100:00F5FF&height=100&section=footer" width="100%" alt="Footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0f0c29,302b63&height=100&section=footer" width="100%" alt="Footer"/>
 </div>
