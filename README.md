@@ -1,70 +1,121 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0f0c29,302b63,24243e&height=280&section=header&text=Manoj%20Chavan&fontSize=80&fontColor=00F5FF&animation=fadeIn&fontAlignY=35&desc=Architecting%20Scalable%20Web%20and%20AI%20Solutions&descAlignY=60&descSize=20)
+<div align="center">
+<img width="1024" height="329" alt="image" src="https://github.com/user-attachments/assets/7f01e3b2-63a0-4a78-b4dc-6027c638e831" />
 
-<div align="left">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00F5FF&center=true&vCenter=true&width=700&height=60&lines=Hey%2C+I'm+Manoj+Chavan+👋;Full+Stack+Developer;AI+%7C+Mobile+%7C+Web+%7C+Cloud;Building+Secure+%26+Scalable+Apps" alt="Typing Intro"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=39FF14&center=false&vCenter=false&width=500&lines=🚀+Full+Stack+Engineer;🤖+Building+AI-Powered+SaaS;🛡️+Cybersecurity+Enthusiast)](https://git.io/typing-svg)
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f0c29,100:302b63&height=4" width="100%"/>
 
-# 👨‍💻 About Me
+  <h3>⚡ Full Stack Developer crafting high-performance digital solutions ⚡</h3>
 
-I am a **Full Stack Developer** with an engineering background, blending logic and creativity to build solutions that scale. I specialize in **MERN Stack, Flutter, and AI Integration**, focusing on clean architecture and secure code.
+  <p>
+    <img src="https://komarev.com/ghpvc/?username=manoj-chavan-13&label=Profile+Views&color=blueviolet&style=flat-square" alt="profile views" />
+  </p>
+</div>
 
-* 🔭 **Currently Building:** **BeNexus** (No-Code Web Builder) & **LearnX** (AI EdTech).
-* 🌱 **Learning:** Advanced Microservices & Cloud Security patterns.
-* ⚡ **Motto:** *"Build Fast. Break Nothing. Secure Everything."*
 
-[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manojchavan1311)
 
----
+## 👨‍💻 About Me
 
-## 🛠️ Technical Arsenal
+I’m a **Full Stack Developer** with an engineering background, blending **logic + creativity** to build solutions that scale.  
+Focused on **web, mobile, and AI-powered systems** with clean, secure, and efficient code.  
 
-### 💻 Core & Languages
-![JavaScript](https://img.shields.io/badge/JavaScript-F7E018?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+- 🔭 Currently building: **Innomate** – an EdTech platform for students 🚀  
+- 🌱 Learning: **Cybersecurity + Advanced Android Patterns** - 👯 Open to: **Open-source & innovative projects** - 📫 Contact: [hello@minta.in](mailto:hello@minta.in) | [LinkedIn](https://www.linkedin.com/in/manojchavan1311)  
+- ⚡ Motto: *Code. Scale. Secure. Repeat.* ## 🚀 Tech Stack
+
+<div align="center">
+
+### 🖥️ Languages & Frameworks  
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-
-### ⚛️ Frontend & Mobile
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7E018?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node-dot-js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 
-### 🔙 Backend & AI
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+### 🌐 Web & Mobile  
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 
-### ☁️ DevOps & Database
+### 🛠 Databases & Cloud  
+![Firebase](https://img.shields.io/badge/Firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
 
----
+</div>
 
-## 🚀 Featured Deployments
 
-| Project | Description | Tech Stack | Link |
-| :--- | :--- | :--- | :---: |
-| **BeNexus** | **The Ultimate Web Builder**<br>A powerful no-code solution allowing users to craft stunning websites effortlessly. | `React` `Node` `DND` | [![Visit](https://img.shields.io/badge/Visit-FF00FF?style=flat-square&logo=vercel&logoColor=white)](https://benexus.vercel.app/) |
-| **LearnX** | **AI Learning Partner (BeNova)**<br>Your intelligent AI tutor designed to revolutionize how you study using Gemini/OpenAI. | `AI` `MERN` `Gemini` | [![Visit](https://img.shields.io/badge/Visit-39FF14?style=flat-square&logo=vercel&logoColor=black)](https://learnxpro.vercel.app/) |
-| **Portfolio** | **3D Interactive Site**<br>A WebGL-powered personal showcase featuring 3D elements and smooth animations. | `Three.js` `React` | [![Visit](https://img.shields.io/badge/Visit-00F5FF?style=flat-square&logo=vercel&logoColor=black)](https://i3-portfolio.vercel.app/) |
-
----
 
 ## 📊 GitHub Analytics
 
-![Stats](https://github-readme-stats.vercel.app/api?username=manoj-chavan-13&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&align=left)
+<div align="center">
 
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=manoj-chavan-13&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&align=left)
+<img src="https://github-readme-stats.vercel.app/api?username=manoj-chavan-13&show_icons=true&theme=react&hide_border=true&bg_color=0D1117" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manoj-chavan-13&layout=compact&theme=react&hide_border=true&bg_color=0D1117" height="170"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=manoj-chavan-13&theme=react&hide_border=true&background=0D1117" height="170"/>
 
-<br clear="both"/>
+</div>
 
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=manoj-chavan-13&theme=tokyonight&hide_border=true&background=0D1117)
 
-<br/>
 
-![Snake](https://github.com/manoj-chavan-13/manoj-chavan-13/raw/output/github-contribution-grid-snake-dark.svg)
+## 🌟 Featured Projects
+
+<table align="center">
+  <tr>
+    <td align="center" width="33%">
+      <a href="https://i3-portfolio.vercel.app/" target="_blank">
+        <img src="https://placehold.co/100x100/0f0c29/FFF?text=Portfolio" width="100" height="100" style="border-radius:15px;" alt="Portfolio"/>
+      </a>
+      <h3>Portfolio</h3>
+      <p>My 3D interactive developer portfolio.</p>
+    </td>
+    <td align="center" width="33%">
+      <a href="https://benexus.vercel.app/" target="_blank">
+        <img src="https://placehold.co/100x100/0f0c29/FFF?text=BeNexus" width="100" height="100" style="border-radius:15px;" alt="BeNexus"/>
+      </a>
+      <h3>BeNexus</h3>
+      <p>The ultimate Web Builder solution.</p>
+    </td>
+    <td align="center" width="33%">
+      <a href="https://learnxpro.vercel.app/" target="_blank">
+        <img src="https://placehold.co/100x100/0f0c29/FFF?text=BeNova" width="100" height="100" style="border-radius:15px;" alt="BeNova"/>
+      </a>
+      <h3>BeNova</h3>
+      <p>Your intelligent AI Learning Partner.</p>
+    </td>
+  </tr>
+</table>
+
+
+## 🐍 Contribution Snake
+
+<div align="center">
+  
+![snake gif](https://github.com/manoj-chavan-13/manoj-chavan-13/blob/output/github-contribution-grid-snake-dark.svg)
+
+</div>
+
+
+
+## 📫 Let’s Connect
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manojchavan1311)  
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hello@minta.in)  
+
+</div>
+
+
+
+<div align="center">
+  
+⚡ *"Turning code into scalable, secure, and impactful solutions."* ⚡  
 
 </div>
