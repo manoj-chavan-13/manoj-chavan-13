@@ -1,122 +1,143 @@
 <div align="center">
-<img width="1024" height="329" alt="image" src="https://github.com/user-attachments/assets/7f01e3b2-63a0-4a78-b4dc-6027c638e831" />
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00F5FF&center=true&vCenter=true&width=700&height=60&lines=Hey%2C+I'm+Manoj+Chavan+👋;Full+Stack+Developer;AI+%7C+Mobile+%7C+Web+%7C+Cloud;Building+Secure+%26+Scalable+Apps" alt="Typing Intro"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,35,30&height=280&section=header&text=Manoj%20Chavan&fontSize=80&fontColor=00F5FF&animation=fadeIn&fontAlignY=35&desc=Architecting%20the%20Future%20of%20Web%20%26%20AI&descAlignY=55&descSize=25" width="100%" alt="Header"/>
 
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f0c29,100:302b63&height=4" width="100%"/>
-
-  <h3>⚡ Full Stack Developer crafting high-performance digital solutions ⚡</h3>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=39FF14&center=true&vCenter=true&width=600&lines=🚀+Full+Stack+Engineer;💎+MERN+%26+Flutter+Developer;🧠+Building+AI-Powered+SaaS;🛡️+Cybersecurity+Enthusiast" alt="Typing SVG" />
+  </a>
 
   <p>
-    <img src="https://komarev.com/ghpvc/?username=manoj-chavan-13&label=Profile+Views&color=blueviolet&style=flat-square" alt="profile views" />
+    <a href="https://www.linkedin.com/in/manojchavan1311" target="_blank">
+      <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    </a>
   </p>
+
+  <br/>
 </div>
 
-
-
-## 👨‍💻 About Me
-
-I’m a **Full Stack Developer** with an engineering background, blending **logic + creativity** to build solutions that scale.  
-Focused on **web, mobile, and AI-powered systems** with clean, secure, and efficient code.  
-
-- 🌱 Learning: **Cybersecurity + Advanced Android Patterns** - 👯 Open to: **Open-source & innovative projects** - 📫 Contact: [LinkedIn](https://www.linkedin.com/in/manojchavan1311)  
-- ⚡ Motto: *Code. Scale. Secure. Repeat.* ## 🚀 Tech Stack
-
 <div align="center">
-
-### 🖥️ Languages & Frameworks  
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7E018?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node-dot-js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-
-### 🌐 Web & Mobile  
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-
-### 🛠 Databases & Cloud  
-![Firebase](https://img.shields.io/badge/Firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
-
+  <h3>👨‍💻 The Developer</h3>
 </div>
 
+> <div align="center">
+> <b>"I blend engineering logic with creative design to build scalable, secure, and intelligent systems."</b><br/><br/>
+> 🔭 <b>Current Focus:</b> Building AI-driven EdTech & Web Builders.<br/>
+> 🌱 <b>Deep Diving:</b> Advanced System Design & Ethical Hacking.<br/>
+> ⚡ <b>Superpower:</b> turning coffee into clean code.
+> </div>
 
-
-## 📊 GitHub Analytics
+<br/>
 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=manoj-chavan-13&show_icons=true&theme=react&hide_border=true&bg_color=0D1117" height="170"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manoj-chavan-13&layout=compact&theme=react&hide_border=true&bg_color=0D1117" height="170"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=manoj-chavan-13&theme=react&hide_border=true&background=0D1117" height="170"/>
-
+  <h3>🏆 Achievements</h3>
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=manoj-chavan-13&theme=radical&no-frame=true&margin-w=15&margin-h=15&column=7" alt="trophy_case"/>
+  </a>
 </div>
 
-
-
-## 🌟 Featured Projects
-
-<table align="center">
-  <tr>
-    <td align="center" width="33%">
-      <a href="https://i3-portfolio.vercel.app/" target="_blank">
-        <img src="https://placehold.co/100x100/0f0c29/FFF?text=M" width="100" height="100" style="border-radius:15px;" alt="Portfolio"/>
-      </a>
-      <br/>
-      <h3>Portfolio</h3>
-      <p>My 3D interactive developer portfolio.</p>
-    </td>
-    <td align="center" width="33%">
-      <a href="https://benexus.vercel.app/" target="_blank">
-        <img src="https://placehold.co/100x100/0f0c29/FFF?text=B" width="100" height="100" style="border-radius:15px;" alt="BeNexus"/>
-      </a>
-      <br/>
-      <h3>BeNexus</h3>
-      <p>The ultimate Web Builder solution.</p>
-    </td>
-    <td align="center" width="33%">
-      <a href="https://learnxpro.vercel.app/" target="_blank">
-        <img src="https://placehold.co/100x100/0f0c29/FFF?text=L" width="100" height="100" style="border-radius:15px;" alt="LearnX"/>
-      </a>
-      <br/>
-      <h3>LearnX</h3>
-      <p>Your intelligent AI Learning Partner.</p>
-    </td>
-  </tr>
-</table>
-
-
-## 🐍 Contribution Snake
+<br/>
 
 <div align="center">
+  <h3>🛠️ Arsenal & Technologies</h3>
   
-![snake gif](https://github.com/manoj-chavan-13/manoj-chavan-13/blob/output/github-contribution-grid-snake-dark.svg)
-
+  <table style="border: none; border-collapse: collapse;">
+    <tr style="border: none;">
+      <td valign="top" width="33%" style="border: none; text-align: center;">
+        <b>✨ Frontend & UI</b><br/><br/>
+        <img src="https://img.shields.io/badge/React-20232a?style=flat-square&logo=react&logoColor=61DAFB" />
+        <img src="https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js&logoColor=white" />
+        <br/>
+        <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+      </td>
+      <td valign="top" width="33%" style="border: none; text-align: center;">
+        <b>⚙️ Backend & Core</b><br/><br/>
+        <img src="https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white" />
+        <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" />
+        <br/>
+        <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white" />
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+      </td>
+      <td valign="top" width="33%" style="border: none; text-align: center;">
+        <b>📱 Mobile & AI</b><br/><br/>
+        <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
+        <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white" />
+        <br/>
+        <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" />
+        <img src="https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=google-gemini&logoColor=white" />
+      </td>
+    </tr>
+    <tr style="border: none;">
+      <td colspan="3" style="border: none; text-align: center; padding-top: 10px;">
+        <b>💾 Database & Cloud</b><br/>
+        <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white" />
+        <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
+        <img src="https://img.shields.io/badge/MySQL-00758F?style=flat-square&logo=mysql&logoColor=white" />
+        <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
+      </td>
+    </tr>
+  </table>
 </div>
 
-
-
-## 📫 Let’s Connect
+<br/>
 
 <div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manojchavan1311)  
-
-</div>
-
-
-
-<div align="center">
+  <h3>🚀 Featured Deployments</h3>
   
-⚡ *"Turning code into scalable, secure, and impactful solutions."* ⚡  
+  <table>
+    <tr>
+      <td width="33%" align="center">
+        <a href="https://i3-portfolio.vercel.app/">
+          <img src="https://placehold.co/300x160/1a1a2e/00F5FF?text=3D+Portfolio&font=roboto" alt="Portfolio" style="border-radius: 10px; border: 2px solid #00F5FF;" width="100%" />
+        </a>
+        <br/><br/>
+        <b>⚡ 3D Interactive Portfolio</b><br/>
+        <font size="2">WebGL powered personal showcase.</font><br/>
+        <a href="https://i3-portfolio.vercel.app/">
+            <img src="https://img.shields.io/badge/View_Live-00F5FF?style=for-the-badge&logo=vercel&logoColor=black" height="25"/>
+        </a>
+      </td>
 
+      <td width="33%" align="center">
+        <a href="https://benexus.vercel.app/">
+          <img src="https://placehold.co/300x160/1a1a2e/FF00FF?text=BeNexus&font=roboto" alt="BeNexus" style="border-radius: 10px; border: 2px solid #FF00FF;" width="100%" />
+        </a>
+        <br/><br/>
+        <b>🏗️ BeNexus Builder</b><br/>
+        <font size="2">Next-Gen Web Building Solution.</font><br/>
+        <a href="https://benexus.vercel.app/">
+            <img src="https://img.shields.io/badge/Start_Building-FF00FF?style=for-the-badge&logo=vercel&logoColor=white" height="25"/>
+        </a>
+      </td>
+
+      <td width="33%" align="center">
+        <a href="https://learnxpro.vercel.app/">
+          <img src="https://placehold.co/300x160/1a1a2e/39FF14?text=LearnX+AI&font=roboto" alt="LearnX" style="border-radius: 10px; border: 2px solid #39FF14;" width="100%" />
+        </a>
+        <br/><br/>
+        <b>🧠 LearnX Pro</b><br/>
+        <font size="2">Intelligent AI Learning Partner.</font><br/>
+        <a href="https://learnxpro.vercel.app/">
+            <img src="https://img.shields.io/badge/Start_Learning-39FF14?style=for-the-badge&logo=vercel&logoColor=black" height="25"/>
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<br/>
+
+<div align="center">
+  <h3>📊 Coding Analytics</h3>
+  <img src="https://github-readme-stats.vercel.app/api?username=manoj-chavan-13&show_icons=true&theme=tokyonight&hide_border=true&bg_color=000000&count_private=true" height="160" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manoj-chavan-13&layout=compact&theme=tokyonight&hide_border=true&bg_color=000000" height="160" alt="languages graph" />
+</div>
+
+<div align="center">
+  <img src="https://github.com/manoj-chavan-13/manoj-chavan-13/blob/output/github-contribution-grid-snake-dark.svg" width="100%" alt="snake"/>
+</div>
+
+<br/>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,35,30&height=100&section=footer" width="100%"/>
 </div>
