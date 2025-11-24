@@ -1,15 +1,8 @@
-<!--
-⚡ Manoj Chavan | Technical GitHub Profile
-Theme: Futuristic Neon Tech
--->
-
 <div align="center">
 <img width="1024" height="329" alt="image" src="https://github.com/user-attachments/assets/7f01e3b2-63a0-4a78-b4dc-6027c638e831" />
 
-  <!-- Typing Animation -->
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00F5FF&center=true&vCenter=true&width=700&height=60&lines=Hey%2C+I'm+Manoj+Chavan+👋;Full+Stack+Developer;AI+%7C+Mobile+%7C+Web+%7C+Cloud;Building+Secure+%26+Scalable+Apps" alt="Typing Intro"/>
 
-  <!-- Banner -->
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f0c29,100:302b63&height=4" width="100%"/>
 
   <h3>⚡ Full Stack Developer crafting high-performance digital solutions ⚡</h3>
@@ -27,13 +20,8 @@ I’m a **Full Stack Developer** with an engineering background, blending **logi
 Focused on **web, mobile, and AI-powered systems** with clean, secure, and efficient code.  
 
 - 🔭 Currently building: **Innomate** – an EdTech platform for students 🚀  
-- 🌱 Learning: **Cybersecurity + Advanced Android Patterns**  
-- 👯 Open to: **Open-source & innovative projects**  
-- 📫 Contact: [hello@minta.in](mailto:hello@minta.in) | [LinkedIn](https://www.linkedin.com/in/manojchavan1311)  
-- ⚡ Motto: *Code. Scale. Secure. Repeat.*  
-
-
-## 🚀 Tech Stack
+- 🌱 Learning: **Cybersecurity + Advanced Android Patterns** - 👯 Open to: **Open-source & innovative projects** - 📫 Contact: [hello@minta.in](mailto:hello@minta.in) | [LinkedIn](https://www.linkedin.com/in/manojchavan1311)  
+- ⚡ Motto: *Code. Scale. Secure. Repeat.* ## 🚀 Tech Stack
 
 <div align="center">
 
@@ -80,19 +68,29 @@ Focused on **web, mobile, and AI-powered systems** with clean, secure, and effic
 
 <table align="center">
   <tr>
-    <td align="center" width="50%">
-      <a href="https://baremind.fun" target="_blank">
-        <img src="https://baremind.fun/logo.jpeg" width="100" height="100" style="border-radius:15px;" alt="BareMind"/>
+    <td align="center" width="33%">
+      <a href="https://i3-portfolio.vercel.app/" target="_blank">
+        <img src="https://placehold.co/100x100/0f0c29/FFF?text=M" width="100" height="100" style="border-radius:15px;" alt="Portfolio"/>
       </a>
-      <h3>BareMind</h3>
-      <p>Personal blogging platform for thoughts on tech, creativity & life.</p>
+      <br/>
+      <h3>Portfolio</h3>
+      <p>My 3D interactive developer portfolio.</p>
     </td>
-    <td align="center" width="50%">
-      <a href="https://playbucket.baremind.fun" target="_blank">
-        <img src="https://playbucket.baremind.fun/logo.png" width="100" height="100" alt="PlayBucket"/>
+    <td align="center" width="33%">
+      <a href="https://benexus.vercel.app/" target="_blank">
+        <img src="https://placehold.co/100x100/0f0c29/FFF?text=B" width="100" height="100" style="border-radius:15px;" alt="BeNexus"/>
       </a>
-      <h3>PlayBucket</h3>
-      <p>A curated YouTube playlist hub designed for students’ learning.</p>
+      <br/>
+      <h3>BeNexus</h3>
+      <p>The ultimate Web Builder solution.</p>
+    </td>
+    <td align="center" width="33%">
+      <a href="https://learnxpro.vercel.app/" target="_blank">
+        <img src="https://placehold.co/100x100/0f0c29/FFF?text=L" width="100" height="100" style="border-radius:15px;" alt="BeNova"/>
+      </a>
+      <br/>
+      <h3>BeNova</h3>
+      <p>Your intelligent AI Learning Partner.</p>
     </td>
   </tr>
 </table>
