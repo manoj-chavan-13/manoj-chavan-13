@@ -42,57 +42,6 @@ Currently, I’m expanding my knowledge in **Cloud Security (CloudSec)** and **C
 
 <br/>
 
-# 🌱 Currently Studying
-
-<div align="center">
-
-<table>
-<tr>
-
-<td width="33%" align="center">
-
-<img src="https://img.icons8.com/fluency/96/cloud.png" width="70"/>
-<br/><br/>
-### ☁️ Cloud Computing
-
-Exploring cloud fundamentals, infrastructure concepts, deployment workflows, and scalable systems.
-
-</td>
-
-<td width="33%" align="center">
-
-<img src="https://img.icons8.com/fluency/96/security-checked.png" width="70"/>
-
-### 🔐 Cloud Security
-
-Learning secure cloud practices, authentication, security principles, and system protection.
-
-</td>
-
-<td width="33%" align="center">
-
-<img src="https://img.icons8.com/fluency/96/devops.png" width="70"/>
-
-### ⚙️ Cloud DevOps
-
-Understanding CI/CD, deployment automation, DevOps workflows, and infrastructure management.
-
-</td>
-
-</tr>
-</table>
-
-<br/>
-
-<img src="https://img.shields.io/badge/Currently%20Exploring-Cloud%20Infrastructure-38BDF8?style=for-the-badge&labelColor=020617"/>
-
-<img src="https://img.shields.io/badge/Focused%20On-Security%20%26%20Scalability-38BDF8?style=for-the-badge&labelColor=020617"/>
-
-<img src="https://img.shields.io/badge/Learning-DevOps%20Practices-38BDF8?style=for-the-badge&labelColor=020617"/>
-
-</div>
-<br/>
-
 # ⚒️ Tech Stack
 
 <div align="center">
@@ -101,6 +50,7 @@ Understanding CI/CD, deployment automation, DevOps workflows, and infrastructure
 
 <br/>
 
+<img width="1939" height="373" alt="1405e8c7-b5e4-40cc-9f28-2e35425c6ea9" src="https://github.com/user-attachments/assets/c4dad328-a865-4561-9b67-eeb422461b85" />
 
 </div>
 
