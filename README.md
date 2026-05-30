@@ -1,15 +1,14 @@
 
 
 <div align="center">
-<img width="1983" height="793" alt="image" src="https://github.com/user-attachments/assets/18229c7b-1414-4279-aefa-81103413d821" />
+<img width="2134" height="393" alt="demo" src="https://github.com/user-attachments/assets/f3bf19fc-4848-425d-9bcf-647bf5cf0d03" />
 
-<img src="YOUR_HEADER_IMAGE_URL_HERE" width="100%" alt="Manoj Chavan Banner"/>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=24&duration=3000&pause=1200&color=F0F6FC&center=true&vCenter=true&width=950&lines=Software+Developer;Full+Stack+%7C+MERN+Developer;Flutter+%26+Android+Developer;Learning+CloudSec+%26+Cloud+DevOps;Building+Scalable+%26+Secure+Digital+Solutions&background=0D1117" />
+
+
 
 <br/>
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&pause=2800&color=38BDF8&center=true&vCenter=true&width=900&lines=Software+Developer;Full+Stack+%7C+MERN+Developer;Flutter+%26+Android+Developer;Learning+CloudSec+%26+Cloud+DevOps;Building+Scalable+%26+Secure+Digital+Solutions" />
-
-<br/><br/>
 
 <img src="https://img.shields.io/github/followers/manoj-chavan-13?style=for-the-badge&logo=github&color=38BDF8&label=Followers&labelColor=020617"/>
 
@@ -164,6 +163,7 @@ Understanding CI/CD, deployment automation, DevOps workflows, and infrastructure
 
 <div align="center">
 <br/><br/>
+
 ### 💭 Developer Philosophy
 
 > **"I believe technology creates real impact when it solves problems, scales efficiently, and delivers meaningful experiences."**
@@ -177,6 +177,7 @@ Understanding CI/CD, deployment automation, DevOps workflows, and infrastructure
 
 <div align="center">
 
-<img src="YOUR_FOOTER_IMAGE_URL_HERE" width="100%" alt="Footer Banner"/>
+<img width="1983" height="440" alt="9720fb1f-1637-473c-bfc1-9b7b07d89fea" src="https://github.com/user-attachments/assets/842baff4-1cf4-4fa9-a245-e06fcfef6938" />
+
 
 </div>
