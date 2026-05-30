@@ -41,6 +41,7 @@ Currently, I’m expanding my knowledge in **Cloud Security (CloudSec)** and **C
 - 🚀 Focus on **performance, scalability & maintainable code**
 
 <br/>
+
 # 🌱 Currently Studying
 
 <div align="center">
@@ -100,24 +101,12 @@ Understanding CI/CD, deployment automation, DevOps workflows, and infrastructure
 
 <br/>
 
-<img src="https://img.shields.io/badge/Full%20Stack-Development-38BDF8?style=for-the-badge&labelColor=020617"/>
-
-<img src="https://img.shields.io/badge/MERN-Stack-38BDF8?style=for-the-badge&labelColor=020617"/>
-
-<img src="https://img.shields.io/badge/Mobile-App%20Development-38BDF8?style=for-the-badge&labelColor=020617"/>
-
-<img src="https://img.shields.io/badge/Flutter-Development-38BDF8?style=for-the-badge&labelColor=020617"/>
-
-<img src="https://img.shields.io/badge/Android-Development-38BDF8?style=for-the-badge&labelColor=020617"/>
-
-<img src="https://img.shields.io/badge/CloudSec-Learning-38BDF8?style=for-the-badge&labelColor=020617"/>
-
-<img src="https://img.shields.io/badge/Cloud%20DevOps-Learning-38BDF8?style=for-the-badge&labelColor=020617"/>
 
 </div>
 
 
 <br/>
+
 # 📊 GitHub Analytics
 
 <div align="center">
@@ -157,10 +146,7 @@ Understanding CI/CD, deployment automation, DevOps workflows, and infrastructure
 
 </div>
 
-<br/>
-
 <div align="center">
-<br/><br/>
 
 ### 💭 Developer Philosophy
 
