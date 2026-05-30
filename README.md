@@ -1,10 +1,7 @@
 
-<!-- =========================
-        CUSTOM HEADER
-   Replace with your image later
-========================= -->
 
 <div align="center">
+<img width="1983" height="793" alt="image" src="https://github.com/user-attachments/assets/18229c7b-1414-4279-aefa-81103413d821" />
 
 <img src="YOUR_HEADER_IMAGE_URL_HERE" width="100%" alt="Manoj Chavan Banner"/>
 
