@@ -40,8 +40,7 @@ Currently, I’m expanding my knowledge in **Cloud Security (CloudSec)** and **C
 - 🔐 Study **Cloud Security & Secure Systems**
 - 🚀 Focus on **performance, scalability & maintainable code**
 
-<br/><br/>
-
+<br/>
 # 🌱 Currently Studying
 
 <div align="center">
@@ -91,7 +90,7 @@ Understanding CI/CD, deployment automation, DevOps workflows, and infrastructure
 <img src="https://img.shields.io/badge/Learning-DevOps%20Practices-38BDF8?style=for-the-badge&labelColor=020617"/>
 
 </div>
-<br/><br/>
+<br/>
 
 # ⚒️ Tech Stack
 
@@ -99,7 +98,6 @@ Understanding CI/CD, deployment automation, DevOps workflows, and infrastructure
 
 <img src="https://skillicons.dev/icons?i=java,python,javascript,typescript,dart,c,react,nodejs,express,flask,html,css,tailwind,bootstrap,flutter,androidstudio,firebase,mongodb,mysql,git,github,postman,figma,vscode,linux,vercel,netlify&perline=9" />
 
-<br/>
 <br/>
 
 <img src="https://img.shields.io/badge/Full%20Stack-Development-38BDF8?style=for-the-badge&labelColor=020617"/>
@@ -119,7 +117,7 @@ Understanding CI/CD, deployment automation, DevOps workflows, and infrastructure
 </div>
 
 
-<br/><br/>
+<br/>
 # 📊 GitHub Analytics
 
 <div align="center">
@@ -129,7 +127,7 @@ Understanding CI/CD, deployment automation, DevOps workflows, and infrastructure
 
 </div>
 
-<br/><br/>
+<br/>
 
 # 📈 Contribution Activity
 
