@@ -61,23 +61,25 @@ Currently, I’m expanding my knowledge in **Cloud Security (CloudSec)** and **C
 
 <div align="center">
 
+<table>
+<tr>
+<td width="48%">
 
-<img width="98%" src="https://streak-stats.demolab.com?user=manoj-chavan-13&theme=tokyonight&hide_border=true&background=0D1117"/>
+<img width="100%" src="https://streak-stats.demolab.com?user=manoj-chavan-13&theme=tokyonight&hide_border=true&background=0D1117"/>
+
+</td>
+
+<td width="52%">
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=manoj-chavan-13&theme=tokyo-night&hide_border=true&area=true"/>
+
+</td>
+</tr>
+</table>
 
 </div>
-
-<br/>
-
-# 📈 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=manoj-chavan-13&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
-
-</div>
-
-
 <br/><br/>
+
 # 🤝 Connect With Me
 
 <div align="center">
@@ -86,7 +88,7 @@ Currently, I’m expanding my knowledge in **Cloud Security (CloudSec)** and **C
   <img src="https://skillicons.dev/icons?i=linkedin" height="55"/>
 </a>
 
-<a href="mailto:hello@minta.in">
+<a href="mailto:manojschavan6@gmail.com">
   <img src="https://skillicons.dev/icons?i=gmail" height="55"/>
 </a>
 
