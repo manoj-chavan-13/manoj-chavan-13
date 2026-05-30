@@ -1,125 +1,185 @@
-<div align="center">
-  <img width="1024" height="329" alt="Hero banner" src="https://github.com/user-attachments/assets/7f01e3b2-63a0-4a78-b4dc-6027c638e831" />
 
-  <h1>Manoj Chavan</h1>
-  <p><strong>Full-Stack Developer</strong> · AI · Mobile · Web · Cloud</p>
-
-  <img
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=00F5FF&center=true&vCenter=true&width=700&height=60&lines=Building+secure+and+scalable+apps;Turning+ideas+into+production-ready+products"
-    alt="Typing intro"
-  />
-
-  <p>
-    <img src="https://komarev.com/ghpvc/?username=manoj-chavan-13&label=Profile+Views&color=blueviolet&style=flat-square" alt="Profile views" />
-  </p>
-
-  <p>
-    <a href="https://www.linkedin.com/in/manojchavan1311">
-      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-    </a>
-    <a href="mailto:hello@minta.in">
-      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-    </a>
-  </p>
-</div>
-
----
-
-## About
-
-I’m a full-stack developer with an engineering background, combining **logic** and **creativity** to build products that scale.
-My focus is on clean, secure, and efficient solutions across web, mobile, and AI-powered systems.
-
-**Current focus**
-- Learning: **Cybersecurity** and **advanced Android patterns**
-- Open to: **Open-source**, **startups**, and **innovative collaborations**
-- Motto: *Code. Scale. Secure. Repeat.*
-
----
-
-## Tech Stack
+<!-- =========================
+        CUSTOM HEADER
+   Replace with your image later
+========================= -->
 
 <div align="center">
 
-### Languages & Frameworks
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7E018?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node-dot-js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+<img src="YOUR_HEADER_IMAGE_URL_HERE" width="100%" alt="Manoj Chavan Banner"/>
 
-### Web & Mobile
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+<br/>
 
-### Databases & Cloud
-![Firebase](https://img.shields.io/badge/Firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&pause=2800&color=38BDF8&center=true&vCenter=true&width=900&lines=Software+Developer;Full+Stack+%7C+MERN+Developer;Flutter+%26+Android+Developer;Learning+CloudSec+%26+Cloud+DevOps;Building+Scalable+%26+Secure+Digital+Solutions" />
+
+<br/><br/>
+
+<img src="https://img.shields.io/github/followers/manoj-chavan-13?style=for-the-badge&logo=github&color=38BDF8&label=Followers&labelColor=020617"/>
+
+<img src="https://komarev.com/ghpvc/?username=manoj-chavan-13&style=for-the-badge&color=38BDF8&label=Profile+Views"/>
+
+<img src="https://img.shields.io/badge/Open%20To-Collaboration-38BDF8?style=for-the-badge&logo=github&logoColor=white&labelColor=020617"/>
+
+<img src="https://img.shields.io/badge/Focused%20On-Full%20Stack%20Development-38BDF8?style=for-the-badge&labelColor=020617"/>
 
 </div>
 
----
 
-## Featured Projects
 
-<table align="center">
-  <tr>
-    <td align="center" width="33%">
-      <a href="https://i3-portfolio.vercel.app/" target="_blank">
-        <img src="https://placehold.co/100x100/0f0c29/FFF?text=Portfolio" width="100" height="100" style="border-radius:15px;" alt="Portfolio" />
-      </a>
-      <h3>Portfolio</h3>
-      <p>3D interactive developer portfolio.</p>
-    </td>
-    <td align="center" width="33%">
-      <a href="https://benexus.vercel.app/" target="_blank">
-        <img src="https://placehold.co/100x100/0f0c29/FFF?text=BeNexus" width="100" height="100" style="border-radius:15px;" alt="BeNexus" />
-      </a>
-      <h3>BeNexus</h3>
-      <p>Modern web builder and publishing toolkit.</p>
-    </td>
-    <td align="center" width="33%">
-      <a href="https://learnxpro.vercel.app/" target="_blank">
-        <img src="https://placehold.co/100x100/0f0c29/FFF?text=BeNova" width="100" height="100" style="border-radius:15px;" alt="BeNova" />
-      </a>
-      <h3>BeNova</h3>
-      <p>AI-powered learning partner for personalized study.</p>
-    </td>
-  </tr>
+# 👋 About Me
+
+Hi, I'm **Manoj Chavan** — a passionate **Software Developer** with hands-on experience in **Full Stack Development, MERN Stack, Flutter, and Android Development**.
+
+I enjoy building **modern, scalable, secure, and user-focused digital experiences** that solve real-world problems. My development approach focuses on **clean architecture, performance optimization, scalability, and meaningful user experiences**.
+
+Currently, I’m expanding my knowledge in **Cloud Security (CloudSec)** and **Cloud DevOps** while continuously improving my understanding of **system design, cloud technologies, and scalable infrastructure**.
+
+### 💡 What I Do
+
+- 💻 Build **Full Stack Web Applications**
+- 🌐 Develop scalable **MERN Stack Solutions**
+- 📱 Create modern **Flutter & Android Applications**
+- 🤖 Explore **AI-powered systems & intelligent experiences**
+- ☁️ Learn **Cloud Infrastructure & DevOps**
+- 🔐 Study **Cloud Security & Secure Systems**
+- 🚀 Focus on **performance, scalability & maintainable code**
+
+<br/><br/>
+
+# 🌱 Currently Studying
+
+<div align="center">
+
+<table>
+<tr>
+
+<td width="33%" align="center">
+
+<img src="https://img.icons8.com/fluency/96/cloud.png" width="70"/>
+<br/><br/>
+### ☁️ Cloud Computing
+
+Exploring cloud fundamentals, infrastructure concepts, deployment workflows, and scalable systems.
+
+</td>
+
+<td width="33%" align="center">
+
+<img src="https://img.icons8.com/fluency/96/security-checked.png" width="70"/>
+
+### 🔐 Cloud Security
+
+Learning secure cloud practices, authentication, security principles, and system protection.
+
+</td>
+
+<td width="33%" align="center">
+
+<img src="https://img.icons8.com/fluency/96/devops.png" width="70"/>
+
+### ⚙️ Cloud DevOps
+
+Understanding CI/CD, deployment automation, DevOps workflows, and infrastructure management.
+
+</td>
+
+</tr>
 </table>
 
----
+<br/>
 
-## GitHub Analytics
+<img src="https://img.shields.io/badge/Currently%20Exploring-Cloud%20Infrastructure-38BDF8?style=for-the-badge&labelColor=020617"/>
+
+<img src="https://img.shields.io/badge/Focused%20On-Security%20%26%20Scalability-38BDF8?style=for-the-badge&labelColor=020617"/>
+
+<img src="https://img.shields.io/badge/Learning-DevOps%20Practices-38BDF8?style=for-the-badge&labelColor=020617"/>
+
+</div>
+<br/><br/>
+
+# ⚒️ Tech Stack
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=manoj-chavan-13&show_icons=true&theme=react&hide_border=true&bg_color=0D1117" height="170" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manoj-chavan-13&layout=compact&theme=react&hide_border=true&bg_color=0D1117" height="170" alt="Top languages" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=manoj-chavan-13&theme=react&hide_border=true&background=0D1117" height="170" alt="GitHub streak" />
+
+<img src="https://skillicons.dev/icons?i=java,python,javascript,typescript,dart,c,react,nodejs,express,flask,html,css,tailwind,bootstrap,flutter,androidstudio,firebase,mongodb,mysql,git,github,postman,figma,vscode,linux,vercel,netlify&perline=9" />
+
+<br/>
+<br/>
+
+<img src="https://img.shields.io/badge/Full%20Stack-Development-38BDF8?style=for-the-badge&labelColor=020617"/>
+
+<img src="https://img.shields.io/badge/MERN-Stack-38BDF8?style=for-the-badge&labelColor=020617"/>
+
+<img src="https://img.shields.io/badge/Mobile-App%20Development-38BDF8?style=for-the-badge&labelColor=020617"/>
+
+<img src="https://img.shields.io/badge/Flutter-Development-38BDF8?style=for-the-badge&labelColor=020617"/>
+
+<img src="https://img.shields.io/badge/Android-Development-38BDF8?style=for-the-badge&labelColor=020617"/>
+
+<img src="https://img.shields.io/badge/CloudSec-Learning-38BDF8?style=for-the-badge&labelColor=020617"/>
+
+<img src="https://img.shields.io/badge/Cloud%20DevOps-Learning-38BDF8?style=for-the-badge&labelColor=020617"/>
+
 </div>
 
----
 
-## Let’s Connect
+<br/><br/>
+# 📊 GitHub Analytics
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/manojchavan1311">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:hello@minta.in">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
+
+
+<img width="98%" src="https://streak-stats.demolab.com?user=manoj-chavan-13&theme=tokyonight&hide_border=true&background=0D1117"/>
+
 </div>
 
+<br/><br/>
+
+# 📈 Contribution Activity
+
 <div align="center">
-  <p><em>“Turning code into scalable, secure, and impactful solutions.”</em></p>
-  <img width="1024" height="434" alt="Footer banner" src="https://github.com/user-attachments/assets/f49de92c-dabb-4054-a068-477de9a3cbd6" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=manoj-chavan-13&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
+
+</div>
+
+
+<br/><br/>
+# 🤝 Connect With Me
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/manojchavan1311">
+  <img src="https://skillicons.dev/icons?i=linkedin" height="55"/>
+</a>
+
+<a href="mailto:hello@minta.in">
+  <img src="https://skillicons.dev/icons?i=gmail" height="55"/>
+</a>
+
+<a href="https://github.com/manoj-chavan-13">
+  <img src="https://skillicons.dev/icons?i=github" height="55"/>
+</a>
+
+</div>
+
+<br/>
+
+<div align="center">
+<br/><br/>
+### 💭 Developer Philosophy
+
+> **"I believe technology creates real impact when it solves problems, scales efficiently, and delivers meaningful experiences."**
+
+</div>
+
+<!-- =========================
+        CUSTOM FOOTER
+   Replace with your image later
+========================= -->
+
+<div align="center">
+
+<img src="YOUR_FOOTER_IMAGE_URL_HERE" width="100%" alt="Footer Banner"/>
+
 </div>
