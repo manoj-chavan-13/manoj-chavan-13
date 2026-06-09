@@ -65,6 +65,7 @@ Currently, I’m expanding my knowledge in **Cloud Security (CloudSec)** and **C
 <tr>
 <td width="48%">
 
+<img width="100%" src="https://streak-stats.demolab.com?user=manoj-chavan-13&theme=tokyonight&hide_border=true&background=0D1117"/>
 
 </td>
 
