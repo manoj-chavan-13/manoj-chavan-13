@@ -50,7 +50,7 @@ Currently, I’m expanding my knowledge in **Cloud Security (CloudSec)** and **C
 
 <br/>
 
-<img width="1939" height="373" alt="1405e8c7-b5e4-40cc-9f28-2e35425c6ea9" src="https://github.com/user-attachments/assets/c4dad328-a865-4561-9b67-eeb422461b85" />
+<!-- <img width="1939" height="373" alt="1405e8c7-b5e4-40cc-9f28-2e35425c6ea9" src="https://github.com/user-attachments/assets/c4dad328-a865-4561-9b67-eeb422461b85" /> -->
 
 </div>
 
@@ -60,22 +60,9 @@ Currently, I’m expanding my knowledge in **Cloud Security (CloudSec)** and **C
 # 📊 GitHub Analytics
 
 <div align="center">
-
-<table>
-<tr>
-<td width="48%">
-
-<img width="100%" src="https://streak-stats.demolab.com?user=manoj-chavan-13&theme=tokyonight&hide_border=true&background=0D1117"/>
-
-</td>
-
-<td width="52%">
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=manoj-chavan-13&theme=tokyo-night&hide_border=true&area=true"/>
-
-</td>
-</tr>
-</table>
+<p align="center">
+  <img src="https://github-profile-card-ten.vercel.app/api/impact?username=manoj-chavan-13" alt="GitHub Impact Card" />
+</p>
 
 </div>
 <br/><br/>
