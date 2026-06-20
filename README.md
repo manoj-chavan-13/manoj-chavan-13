@@ -65,7 +65,9 @@ Currently, I’m expanding my knowledge in **Cloud Security (CloudSec)** and **C
 <p align="center">
   <img src="https://github-profile-card-ten.vercel.app/api/impact?username=manoj-chavan-13" alt="GitHub Impact Card" />
 </p>
-
+<p align="center">
+  <img src="https://github-profile-card-ten.vercel.app/api/contribution-bug?username=manoj-chavan-13" alt="Contribution Bug" width="100%" />
+</p>
 </div>
 <br/><br/>
 
