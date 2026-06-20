@@ -42,6 +42,8 @@ Currently, I’m expanding my knowledge in **Cloud Security (CloudSec)** and **C
 
 <br/>
 
+<img src="https://github-profile-card-ten.vercel.app/api/journey?steps=Basic%20Coding,MERN%20Stack,Mobile%20Apps,DevSevOps" />
+
 # ⚒️ Tech Stack
 
 <div align="center">
